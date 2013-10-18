@@ -1,0 +1,35 @@
+{% extends '::base.html.twig' %}
+ 
+
+{% block navigation %}
+     <nav id="nav">
+                            <li class="current"><a href="{{ path('rx_caso1') }}">Inicio</a></li>
+                                <li>
+                                    <a href="#">Estaciones</a>
+                                        <ul> 
+                                            <li><a href="{{ path('rx_caso1') }}">Caso 1 - Pintar mapa</a></li>
+                                            <li><a href="{{ path('rx_caso2') }}">Caso 2 - Mapa con localización de estaciones</a></li>
+                                            <li><a href="{{ path('rx_caso3') }}">Caso 3 - Mapa de estaciones con todos sus datos</a></li>
+                                        </ul>
+                                </li>
+                                <li>
+                                    <a href="#">Contaminantes</a>
+                                        <ul>
+                                            <li><a href="{{ path('rx_caso4') }}">Caso 4 - Mapa de datos de contaminación</a></li>
+                                            <li><a href="{{ path('rx_caso5') }}">Caso 5 - Mapa de datos de contaminación (Diagrama de Barras)</a></li>
+                                        </ul>
+                                </li>
+                                <li>
+                                     <a href="#">Herramientas Usadas</a>
+                                        <ul>
+                                            <li><a href="http://openstreetmaps.org">OpenStreetMaps</a></li>
+                                            <li><a href="http://leafletjs.com/">Leaflet</a></li>
+                                            <li><a href="http://humangeo.github.io/leaflet-dvf/">Leaflet-DVF</a></li>
+                                        </ul>
+                                </li>
+     </nav>
+{% endblock %}
+
+{% block sidebar %}
+    Sidebar
+{% endblock %}

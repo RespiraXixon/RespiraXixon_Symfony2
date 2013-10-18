@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Members Only"
+AuthUserFile /home/var/www/clients/client1/web25/.htpasswd_stats
+require valid-user

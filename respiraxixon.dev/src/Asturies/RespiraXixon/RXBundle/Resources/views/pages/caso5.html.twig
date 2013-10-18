@@ -1,0 +1,15 @@
+{% extends 'RXBundle::layout.html.twig' %}
+
+{% block body %}
+<article>
+  <div id="mapa">
+  </div>
+</article>
+{% endblock %}
+
+{% block javascripts_page %}
+<script  src="{{asset('js/pages/caso5.js')}}"></script>
+<script>
+    cargaDatos(tipoCarga,fichero_calidadaire);
+</script>
+{%endblock%}

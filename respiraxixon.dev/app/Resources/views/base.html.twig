@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html"; charset=utf-8" />
+        <title>RespiraXixon</title>
+        <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        {% block stylesheets %}
+            <style type="text/css">
+                <!--
+                body {
+                        margin-top: 0px;
+                        background-image: url({{ asset('images/bg_repeat.png')}});
+                        background-repeat: repeat-x;
+                        background-position: top;
+                        background-color: #E7E7E7;
+                }
+                -->
+            </style>
+            <!-- Cargamos la hoja de estilo de la página -->
+            <link rel="stylesheet" type="text/css" media="all" href="{{ asset('css/estilo.css')}}" />
+            <!-- Incluimos Leaflet -->
+            <link rel="stylesheet" href="{{ asset('css/leaflet.css')}}" />
+            <!-- Cargamos la hoja de estilo del tema -->
+            <link href="{{ asset('css/xom.css') }}" type="text/css" rel="stylesheet" />
+        {% endblock %}
+        <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" />
+    </head>
+    <body>
+        <div class="containerWrap">
+            <div class="header">
+                <div class="logo">
+                    <h1>RespiraXixon</h1>
+                </div>
+                    {% block navigation %}
+                       
+                    {% endblock %}
+                <div class="content" id="wrapper">
+                    {% block body %}
+                    {% endblock %}
+                </div>
+            </div>
+        
+            <footer>
+               <div class="top"> 
+               <!--end footer -->
+               </div>
+                <div class="footerWrapper" id="footercontent">
+                  <li><a href="#">Inicio</a></li> 
+                   <li><a href="#">Uno</a></li> 
+                   <li><a href="#">Dos</a></li> 
+                   <li><a href="#">Tres</a></li> 
+                   <li><a href="http://respiraxixon.com" target="_blank">RespiraXixon</li>
+               </div> 
+           </footer> 
+    </div>        
+    {% block javascripts %}
+                <script  src="{{asset('js/jquery-2.0.3.min.js')}}"></script>
+                
+ 		<script  src="{{asset('js/jquery.formatDateTime.js')}}"></script>
+                
+ 		<script  src="{{asset('js/jquery.xdomainajax.js')}}"></script>
+                
+ 		<script  src="{{asset('js/leaflet.js')}}"></script>
+                
+ 		<script  src="{{asset('js/leaflet-dvf.js')}}"></script>
+                
+                <script  src="{{asset('js/leaflet.GeometryUtil.js')}}"></script>
+ 		
+                <script  src="{{asset('js/RXUtils.js')}}"></script>
+    {% endblock %}
+    {% block javascripts_page %}
+                
+    {% endblock %}
+    </body>
+</html>

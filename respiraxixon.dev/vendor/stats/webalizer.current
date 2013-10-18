@@ -1,0 +1,3314 @@
+# Webalizer V2.01-10 Incremental Data - 10/16/2013 23:57:48
+2013 10 16 23 57 48
+9233 7439 531 278 72 173 139519190 6452 808 0 0 0
+187 15 644 1 16
+70 48 805857 20 55 32 0 0
+164 139 11959081 21 56 33 0 0
+44 32 1066127 21 26 25 0 0
+162 109 6056194 24 66 31 0 0
+100 79 6147542 25 46 28 0 0
+53 39 1210969 22 37 24 0 0
+147 112 7112950 35 58 33 0 0
+91 71 4441724 33 47 34 0 0
+722 585 3170002 38 573 40 0 0
+1505 1484 1934629 26 1475 41 0 0
+168 116 1219746 20 121 22 0 0
+91 77 5062722 17 44 24 0 0
+1520 1472 1237004 28 1484 32 0 0
+2305 1701 50927506 212 1184 200 0 0
+276 194 11085694 42 98 59 0 0
+1815 1181 26081443 187 1082 153 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+90 75 5971502 39 0 0
+24 17 468153 18 0 0
+31 22 772078 23 0 0
+46 29 852338 32 0 0
+43 32 650608 36 0 0
+59 43 1069559 47 0 0
+85 47 1393871 27 0 0
+39 29 859537 22 0 0
+348 231 3121492 218 0 0
+540 516 7022390 473 0 0
+880 733 11696014 656 0 0
+1355 881 10133150 861 0 0
+1150 767 27031121 656 0 0
+671 596 5343400 524 0 0
+790 697 15196850 430 0 0
+270 235 9596944 139 0 0
+182 164 3992751 117 0 0
+563 405 14783150 331 0 0
+372 344 3324572 324 0 0
+348 328 4016897 319 0 0
+373 346 2358455 323 0 0
+491 439 5655836 397 0 0
+307 300 1768093 290 0 0
+176 163 2440429 150 0 0
+0
+0
+0
+7439
+0
+0
+0
+0
+0
+193
+0
+153
+180
+0
+892
+0
+0
+0
+0
+0
+1
+375
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/blog/en/author/carlos/
+0 1 0 2483 1 0 0 0
+/blog/wp-includes/js/tinymce/plugins/tabfocus/editor_plugin.js
+0 18 0 0 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/feed/
+0 2 0 1084 0 0 0 0
+/blog/2013/09/18/campana-online-por-la-movilidad-sostenible-y-la-apertura-de-datos-publicos/feed/
+0 2 0 2436 2 0 0 0
+/blog/wp-admin/edit-comments.php
+0 2 0 25851 0 0 0 0
+/
+0 101 0 19538 83 1 0 0
+/blog/wp-includes/js/tinymce/tiny_mce.js
+0 18 0 0 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wordpress/editor_plugin.js
+0 18 0 0 0 0 0 0
+/blog/wp-content/uploads/2013/09/2013-09-18_logo_ODLab_del_CTIC.png
+1 36 0 2442448 0 0 0 0
+/blog/wp-content/uploads/2013/06/Azul-participaci\xc3\xb3n-smartcity_21.png
+1 1 0 104478 0 0 0 0
+/blog/wp-content/uploads/2013/09/Cartel-Verde-Trazado300_v2_resize.jpg
+1 15 0 1764171 0 0 0 0
+/blog/que-es/feed/
+0 1 0 477 1 0 0 0
+/blog/wp-content/uploads/2013/10/20120523_Logo-EEA.jpg
+1 70 1 1894215 0 0 0 0
+/blog/wp-content/uploads/2013/09/proceso_protesta_telematica.pdf
+0 1 0 399975 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wplink/editor_plugin.js
+0 18 0 0 0 0 0 0
+/blog/wp-content/uploads/2013/07/vista_sala.jpg
+1 13 0 1040039 0 0 0 0
+/blog/wp-admin/images/align-right.png
+1 1 0 0 0 0 0 0
+/blog/que-es/
+0 7 0 39324 2 1 0 0
+/blog/wp-login.php
+0 11 0 14146 8 2 0 0
+/blog/wp-includes/js/tinymce/themes/advanced/img/iframe.gif
+1 3 0 600 0 0 0 0
+/blog/tag/eea-report-no-92013/feed/
+0 1 0 3229 0 1 0 0
+/blog/tag/huella-de-carbono/feed/
+0 1 0 3137 1 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/2013-06-15-entrega-de-premios_2/
+0 2 0 7641 2 1 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/2013-06-15-entrega-de-premios/feed/
+0 1 0 532 0 0 0 0
+/blog/tag/carbonpedia/
+0 6 0 53748 4 1 0 0
+/blog/tag/european-mobility-week/feed/
+0 1 0 4835 1 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wpeditimage/editimage.html
+0 1 0 0 0 0 0 0
+/blog/tag/wprightnow/
+0 1 0 4801 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/2013-06-14-22-09-10_resize/
+0 2 0 7701 2 1 0 0
+/blog/wp-content/uploads/2013/06/etiquetas-mail-para-contacto_info.png
+1 1 0 0 0 0 0 0
+/blog/es/2013/07/
+0 2 0 13336 1 0 0 0
+/blog/wp-content/uploads/2013/06/etiquetas-mail-para-contacto_eduardo1.png
+1 1 0 0 0 0 0 0
+/blog/wp-admin/images/post-formats.png
+1 4 0 0 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wpeditimage/editor_plugin.js
+0 18 0 0 0 0 0 0
+/blog/wp-admin/images/media-button.png
+1 4 0 0 0 0 0 0
+/blog/tag/fundacion-municipal-de-servicios-sociales-gijon/
+0 3 0 18552 2 2 0 0
+/blog/wp-content/uploads/2013/06/verde-open-wifi_2.png
+1 1 0 0 0 0 0 0
+/blog/wp-admin/images/wordpress-logo.png
+1 3 0 0 0 0 0 0
+/blog/wp-content/plugins/sexybookmarks/spritegen_default/sprite.css
+0 3 0 4383 0 0 0 0
+/blog/es/2013/09/
+0 12 0 118229 8 8 0 0
+/blog/tag/calidad-de-aire/
+0 1 0 4484 0 0 0 0
+/blog/wp-admin/load-scripts.php
+0 35 0 2789078 0 0 0 0
+/blog/wp-includes/images/blank.gif
+1 1 0 43 0 0 0 0
+/blog/category/pensadores/feed/
+0 1 0 5473 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/2013-06-15-entrega-de-premios/
+0 1 0 3824 1 1 0 0
+/blog/wp-includes/js/tinymce/plugins/wpeditimage/img/image.png
+1 4 0 0 0 0 0 0
+/blog/category/eea/feed/
+0 1 0 3306 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/
+0 19 0 115476 13 3 0 0
+/blog/wp-content/uploads/2013/09/carbonpedialogo.jpg
+1 60 0 6684888 0 0 0 0
+/blog/tag/hans-bruyninckx/feed/
+0 1 0 3227 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/sensor_resize/feed/
+0 1 0 522 1 1 0 0
+/blog/tag/desurbanizacion/feed/
+0 1 0 5400 0 0 0 0
+/blog/en/feed/
+0 2 0 1060 1 0 0 0
+/blog/tag/cambio-climatico/
+0 8 0 65844 4 5 0 0
+/blog/tag/open-data-lab-gijon/
+0 4 0 27944 3 1 0 0
+/blog/tag/asturias-conbici/
+0 8 0 49388 7 4 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/raspberry/feed/
+0 1 0 524 1 1 0 0
+/blog/category/eventos/
+0 6 0 70894 4 3 0 0
+/blog/tag/accion-ciudadana/feed/
+0 1 0 2285 1 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/sensor_resize/
+0 2 0 7646 2 0 0 0
+/blog/es/feed/
+0 83 0 1057335 53 37 0 0
+/blog/tag/cambio-climatico/feed/
+0 1 0 4639 1 0 0 0
+/blog/wp-content/uploads/2013/09/carbonpedia_presentación.jpg
+1 2 0 53608 0 0 0 0
+/blog/wp-content/uploads/2013/06/fondo.jpg
+1 81 0 5198172 0 0 0 0
+/blog/wp-cron.php
+0 53 0 0 49 33 0 0
+/blog/wp-content/uploads/2013/09/2013-09-18_Presentación_telemática.png
+1 80 0 9494940 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/corners.gif
+1 1 0 0 0 0 0 0
+/blog/category/pensadores/
+0 1 0 5308 0 0 0 0
+/blog/wp-content/uploads/2013/06/Azul-participación-smartcity_2.png
+1 1 0 0 0 0 0 0
+/blog/
+0 17 0 114207 146 16 0 0
+/blog/wp-content/plugins/polylang/css/admin.min.css
+0 4 0 0 0 0 0 0
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/
+0 78 0 671884 48 8 0 0
+/blog/wp-includes/js/thickbox/thickbox.css
+0 4 0 0 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/yo_en_accion/feed/
+0 1 0 528 1 1 0 0
+/blog/contacto/feed/
+0 1 0 468 1 0 0 0
+/blog/wp-content/uploads/2013/07/Yo_en_acción.jpg
+1 15 0 638676 0 0 0 0
+/blog/es/author/admin/
+0 1 0 3074 0 0 0 0
+/blog/wp-content/uploads/2013/07/2013-06-14-22.09.10_resize.jpg
+1 14 0 2727230 0 0 0 0
+/blog/wp-content/uploads/2013/07/presentación.jpg
+1 15 0 1019976 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/yo_en_accion/
+0 2 0 7598 2 2 0 0
+/blog/tag/movilidad-sostenible/
+0 5 0 37031 4 3 0 0
+/blog/wp-content/uploads/2013/07/raspberry.jpg
+1 13 0 680757 0 0 0 0
+/blog/wp-admin/images/resize.gif
+1 4 0 0 0 0 0 0
+/blog/wp-content/uploads/2013/09/ecodes.jpg
+1 2 0 22659 0 0 0 0
+/blog/en/comments/feed/
+0 3 0 1840 2 0 0 0
+/blog/wp-includes/images/admin-bar-sprite.png
+1 3 0 0 0 0 0 0
+/blog/tag/smart-city/
+0 2 0 9072 2 1 0 0
+/blog/wp-admin/images/sort.gif
+1 1 0 0 0 0 0 0
+/blog/wp-admin/images/wpspin_light-2x.gif
+1 4 0 0 0 0 0 0
+/blog/wp-includes/css/buttons.css
+0 1 0 0 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/dsc_0594_resize/
+0 1 0 3830 1 1 0 0
+/blog/wp-content/uploads/2013/07/2013-06-15-entrega-de-premios_2.jpg
+1 15 0 2324856 0 0 0 0
+/blog/wp-admin/images/arrows.png
+1 4 0 0 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/window.css
+0 4 0 0 0 0 0 0
+/blog/wp-content/uploads/2013/07/2013-06-15-entrega-de-premios.jpg
+1 15 0 2279868 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/media/editor_plugin.js
+0 18 0 0 0 0 0 0
+/blog/wp-includes/images/toggle-arrow.png
+1 1 0 0 0 0 0 0
+/blog/tag/air-quality-in-europe-2013-report/
+0 1 0 4483 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif
+1 1 0 0 0 0 0 0
+/blog/wp-content/uploads/2013/07/2013-06-15-12.03.31_resize.jpg
+1 14 0 2973972 0 0 0 0
+/blog/pagina-ejemplo/feed/
+0 1 1 482 1 0 0 0
+/blog/wp-includes/css/editor.min.css
+0 4 0 0 0 0 0 0
+/blog/wp-content/themes/twentyeleven/style.css
+0 119 0 1411526 0 0 0 0
+/blog/tag/eea-report-no-92013/
+0 1 0 4484 0 0 0 0
+/blog/tag/huella-de-carbono/
+0 5 0 22570 2 3 0 0
+/blog/2013/09/23/primer-aniversario-de-la-carbonpedia/
+0 17 0 119907 12 3 0 0
+/blog/tag/hackeo-ciudadano/feed/
+0 1 0 5403 0 0 0 0
+/blog/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/content.css
+0 3 0 0 0 0 0 0
+/blog/wp-admin/load-styles.php
+0 4 0 70611 0 0 0 0
+/blog/2013/09/23/primer-aniversario-de-la-carbonpedia/feed/
+0 1 0 504 1 0 0 0
+/blog/wp-content/uploads/2013/06/etiquetas-mail-para-contacto_edu.png
+1 2 0 5038 0 0 0 0
+/blog/wp-content/uploads/2013/09/carbon-footprint.jpg
+1 36 0 8090080 0 0 0 0
+/blog/wp-admin/images/icons32.png
+1 4 0 0 0 0 0 0
+/blog/tag/wprightnow/feed/
+0 1 0 5399 0 0 0 0
+/blog/wp-content/uploads/2013/10/EEA.jpg
+1 110 1 8377715 0 0 0 0
+/blog/wp-content/uploads/2013/06/Respira-Xixon_logorojo_twitter2.png
+1 1 0 0 0 0 0 0
+/blog/category/eventos/feed/
+0 1 0 7504 1 0 0 0
+/blog/tag/makers/
+0 1 0 4528 0 1 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/dsc_0594_resize/feed/
+0 1 0 529 1 1 0 0
+/blog/tag/ecodes/
+0 5 0 30373 4 2 0 0
+/blog/wp-content/uploads/2013/09/paso_a_paso_hacia_la_huella_de_carbono.png
+1 18 0 3232753 0 0 0 0
+/blog/wp-admin/images/bubble_bg.gif
+1 1 0 0 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wpgallery/img/edit.png
+1 4 0 0 0 0 0 0
+/blog/tag/urbanismo-open-source/
+0 1 0 4802 0 0 0 0
+/blog/tag/sostenibilidad/
+0 4 0 24272 4 2 0 0
+/blog/wp-admin/images/menu-shadow.png
+1 4 0 0 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/networking/
+0 2 0 7648 2 1 0 0
+/blog/wp-content/plugins/polylang/css/icons.png
+1 1 0 2511 0 0 0 0
+/blog/tag/asturias-conbici/feed/
+0 1 0 3653 1 0 0 0
+/blog/2013/07/30/nos-vemos-en-el-bee-a-doer/feed/
+0 2 0 1024 2 1 0 0
+/blog/tag/open-data/
+0 6 0 26947 5 3 0 0
+/blog/tag/ctic/feed/
+0 1 1 2683 1 0 0 0
+/blog/tag/nueva-cultura-de-la-movilidad/
+0 7 0 43295 4 4 0 0
+/blog/wp-includes/images/crystal/document.png
+1 1 0 0 0 0 0 0
+/blog/es/2013/10/
+0 1 0 4806 0 0 0 0
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/feed/
+0 1 0 523 0 0 0 0
+/blog/wp-content/uploads/2013/07/Bee-a-doer_header.png
+1 23 0 867342 0 0 0 0
+/blog/wp-includes/images/wpspin.gif
+1 1 0 0 0 0 0 0
+/blog/wp-content/uploads/2013/10/Saskia_Sassen_2012.jpg
+1 215 0 23326164 0 0 0 0
+/blog/wp-includes/js/tinymce/utils/form_utils.js
+0 1 0 0 0 0 0 0
+/blog/tag/hackeo-ciudadano/
+0 1 0 4802 0 0 0 0
+/blog/wp-content/plugins/sexybookmarks/images/share-knowledge.png
+1 74 0 156244 0 0 0 0
+/blog/wp-includes/css/admin-bar.min.css
+0 6 0 0 0 0 0 0
+/blog/2013/10/14/saskia-sassen-y-la-smart-city/feed/
+0 4 0 2440 1 0 0 0
+/blog/wp-content/uploads/2013/06/Azul-participación-smartcity_21.png
+1 32 0 2829906 0 0 0 0
+/blog/wp-includes/js/comment-reply.min.js
+0 91 0 32396 0 0 0 0
+/blog/wp-content/uploads/2013/07/Bee-a-doer_cartel.png
+1 14 0 1650432 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wpeditimage/img/delete.png
+1 4 0 0 0 0 0 0
+/blog/wp-admin/images/menu.png
+1 4 0 0 0 0 0 0
+/blog/tag/european-mobility-week/
+0 3 0 22188 1 1 0 0
+/blog/wp-content/uploads/2013/10/urbanismo.jpg
+1 103 0 3754440 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wpgallery/img/delete.png
+1 4 0 0 0 0 0 0
+/blog/wp-includes/js/tinymce/themes/advanced/skins/default/img/menu_arrow.gif
+1 1 0 0 0 0 0 0
+/blog/tag/saskia-sassen/
+0 1 0 4799 0 0 0 0
+/blog/tag/opendata-fest/
+0 2 0 11204 2 1 0 0
+/blog/wp-admin/images/wpspin_light.gif
+1 4 0 0 0 0 0 0
+/blog/2013/10/14/saskia-sassen-y-la-smart-city/
+0 215 0 2799212 111 36 0 0
+/blog/wp-admin/css/wp-admin.min.css
+0 6 0 79077 0 0 0 0
+/blog/wp-content/uploads/2013/09/huella-de-carbono_.jpg
+1 19 0 958242 0 0 0 0
+/blog/wp-includes/css/buttons.min.css
+0 6 0 3861 0 0 0 0
+/blog/tag/accion-ciudadana/
+0 7 0 33750 6 3 0 0
+/blog/wp-admin/images/date-button.gif
+1 4 0 0 0 0 0 0
+/blog/wp-content/uploads/2013/09/2013_semana-eur-movilidad.png
+1 16 0 1501548 0 0 0 0
+/blog/tag/sostenibilidad/feed/
+0 1 0 4641 1 0 0 0
+/blog/wp-admin/update-core.php
+0 1 0 6493 0 0 0 0
+/blog/wp-admin/css/colors-fresh.min.css
+0 9 0 20640 0 0 0 0
+/blog/tag/responsabilidad-social-corporativa/feed/
+0 1 0 3149 1 0 0 0
+/blog/en/author/carlos/feed/
+0 1 0 547 1 0 0 0
+/blog/wp-content/uploads/2013/06/etiquetas-mail-para-contacto_socialmedia1.png
+1 2 0 4639 0 0 0 0
+/blog/wp-includes/js/tinymce/themes/advanced/editor_template.js
+0 18 0 0 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/networking/feed/
+0 1 0 514 1 0 0 0
+/blog/2013/07/30/nos-vemos-en-el-bee-a-doer/
+0 6 0 30391 2 0 0 0
+/blog/wp-admin/images/comment-grey-bubble.png
+1 1 0 0 0 0 0 0
+/blog/tag/co2/
+0 4 0 21062 1 3 0 0
+/blog/tag/desurbanizacion/
+0 1 0 4790 0 0 0 0
+/blog/wp-content/uploads/2013/06/verde-open-wifi_21.png
+1 35 0 2852829 0 0 0 0
+/blog/tag/eea/feed/
+0 1 0 3223 0 0 0 0
+/blog/tag/gei/feed/
+0 1 0 2756 1 0 0 0
+/blog/wp-admin/post.php
+0 25 0 745219 2 0 0 0
+/blog/wp-content/plugins/polylang/js/post.min.js
+0 19 0 0 0 0 0 0
+/blog/wp-content/uploads/2013/07/networking.jpg
+1 16 0 1661040 0 0 0 0
+/blog/wp-content/plugins/sexybookmarks/images/shareaholic_16x16.png
+1 4 0 0 0 0 0 0
+/blog/wp-content/uploads/2013/06/Rojo-individual-global_2.png
+1 34 0 2651595 0 0 0 0
+/blog/tag/open-source/
+0 3 0 13601 3 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wpeditimage/js/editimage.min.js
+0 1 0 0 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/horizontal.gif
+1 1 0 0 0 0 0 0
+/blog/wp-content/themes/twentyeleven/js/html5.js
+0 2 0 2474 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wpgallery/editor_plugin.js
+0 18 0 0 0 0 0 0
+/blog/tag/ctic/
+0 3 0 16773 3 1 0 0
+/blog/tag/premios-principe-de-asturias/
+0 1 0 4799 0 0 0 0
+/blog/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/more_bug.gif
+1 1 0 0 0 0 0 0
+/blog/wp-content/themes/twentyeleven/images/comment-bubble.png
+1 12 0 7910 0 0 0 0
+/blog/es/author/carlos/
+0 10 0 175846 7 4 0 0
+/blog/wp-includes/js/tinymce/plugins/wpeditimage/css/editimage.css
+0 1 0 0 0 0 0 0
+/blog/contacto/
+0 8 0 38471 4 2 0 0
+/blog/wp-admin/edit.php
+0 1 0 13280 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wpdialogs/editor_plugin.js
+0 18 0 0 0 0 0 0
+/blog/wp-includes/images/uploader-icons.png
+1 1 0 0 0 0 0 0
+/blog/wp-includes/js/tinymce/themes/advanced/skins/default/img/menu_check.gif
+1 1 0 0 0 0 0 0
+/blog/wp-content/uploads/shareaholic/spritegen/sprite.css
+0 89 0 53784 0 0 0 0
+/blog/category/eea/
+0 2 0 10070 0 0 0 0
+/blog/wp-content/uploads/2013/10/Hans-Bruyninckx.jpg
+1 71 3 587294 0 0 0 0
+/blog/wp-includes/images/wpicons.png
+1 4 0 0 0 0 0 0
+/blog/wp-content/plugins/polylang/flags/es_ES.png
+1 1 0 469 0 0 0 0
+/blog/wp-content/uploads/shareaholic/spritegen/sprite.png
+1 84 0 1508920 0 0 0 0
+/blog/wp-content/uploads/2013/10/saskia-sassen-openmind.jpg
+1 99 0 1900020 0 0 0 0
+/blog/tag/eea/
+0 1 0 4484 0 0 0 0
+/RespiraXixon/
+0 1 0 104 0 0 0 0
+/blog/en/
+0 8 0 19312 6 0 0 0
+/blog/category/sin-categoria/feed/
+0 2 0 9508 1 1 0 0
+/blog/wp-content/uploads/2013/06/copy-Respira-Xixon_logorojo_twitter2.png
+1 1 0 0 0 0 0 0
+/blog/wp-includes/js/tinymce/wp-tinymce-schema.js
+0 18 0 0 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/2013-06-15-12-03-31_resize/
+0 6 0 23072 5 4 0 0
+/blog/tag/premios-principe-de-asturias/feed/
+0 1 0 5404 0 0 0 0
+/blog/wp-content/uploads/2013/06/etiquetas-mail-para-contacto_carlos.png
+1 2 0 5060 0 0 0 0
+/blog/tag/hans-bruyninckx/
+0 1 0 4490 0 0 0 0
+/blog/2013/09/18/campana-online-por-la-movilidad-sostenible-y-la-apertura-de-datos-publicos/
+0 22 0 154066 16 3 0 0
+/blog/tag/responsabilidad-social-corporativa/
+0 4 0 18050 1 1 0 0
+/blog/wp-content/uploads/2013/09/cero_CO2.png
+1 16 0 7003460 0 0 0 0
+/blog/wp-includes/js/tinymce/themes/advanced/img/icons.gif
+1 1 0 0 0 0 0 0
+/blog/2013/09/23/calculo-de-la-huella-de-carbono/
+0 12 0 81069 7 4 0 0
+/blog/wp-includes/js/thickbox/loadingAnimation.gif
+1 11 0 0 0 0 0 0
+/blog/wp-includes/images/down_arrow.gif
+1 4 0 0 0 0 0 0
+/blog/2013/09/23/calculo-de-la-huella-de-carbono/feed/
+0 1 0 507 1 0 0 0
+/blog/xmlrpc.php
+0 6 0 1956 4 0 0 0
+/blog/wp-includes/js/tinymce/plugins/inlinepopups/editor_plugin.js
+0 18 0 0 0 0 0 0
+/blog/wp-admin/images/align-none.png
+1 1 0 0 0 0 0 0
+/blog/2013/09/17/muevete-por-un-aire-mas-limpio/
+0 10 0 67762 8 4 0 0
+/blog/es/
+0 126 0 2230410 10 15 0 0
+/blog/wp-content/uploads/2013/06/etiquetas-mail-para-contacto_eduardo.png
+1 1 0 0 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/presentacion/
+0 2 0 7643 1 2 0 0
+/blog/what-is-this/
+0 9 0 100534 6 0 0 0
+/blog/tag/carbonpedia/feed/
+0 1 0 4651 1 0 0 0
+/blog/tag/calidad-de-aire/feed/
+0 1 0 3224 0 0 0 0
+/blog/wp-content/uploads/2013/07/DSC_0594_resize.jpg
+1 15 0 1197300 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/wpfullscreen/editor_plugin.js
+0 18 0 0 0 0 0 0
+/blog/wp-content/uploads/2013/07/sensor_resize.jpg
+1 16 0 3171471 0 0 0 0
+/blog/pagina-ejemplo/
+0 1 0 3980 1 0 0 0
+/blog/tag/co2/feed/
+0 1 0 2777 1 0 0 0
+/blog/wp-content/uploads/2013/07/DSC_0597_resize.jpg
+1 15 0 1008984 0 0 0 0
+/blog/wp-admin/images/align-center.png
+1 1 0 0 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/raspberry/
+0 3 0 11343 0 1 0 0
+/blog/tag/urbanismo-open-source/feed/
+0 1 0 5406 0 0 0 0
+/blog/wp-admin/admin-ajax.php
+0 4904 0 724817 4 4 0 0
+/blog/category/sin-categoria/
+0 4 0 47116 3 1 0 0
+/blog/wp-includes/js/tinymce/themes/advanced/img/trans.gif
+1 3 0 43 0 0 0 0
+/blog/wp-admin/post-new.php
+0 3 0 80494 0 2 0 0
+/blog/wp-content/themes/twentyeleven/images/comment-arrow.png
+1 3 0 750 0 0 0 0
+/blog/wp-content/plugins/sexybookmarks/js/sexy-bookmarks-public.min.js
+0 19 0 0 0 0 0 0
+/blog/tag/oficina-de-la-movilidad-sostenible/
+0 8 0 38546 6 3 0 0
+/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/buttons.gif
+1 1 0 0 0 0 0 0
+/blog/2013/09/17/muevete-por-un-aire-mas-limpio/feed/
+0 1 0 517 1 0 0 0
+/blog/tag/semana-europea-de-la-movilidad/
+0 10 0 74023 9 8 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/2013-06-14-21-53-54_resize/
+0 2 0 7683 2 1 0 0
+/blog/wp-content/themes/twentyeleven/images/search.png
+1 84 0 33000 0 0 0 0
+/blog/wp-includes/js/admin-bar.min.js
+0 17 0 0 0 0 0 0
+/blog/wp-content/uploads/2013/07/2013-06-14-21.53.54_resize.jpg
+1 18 0 3524480 0 0 0 0
+/blog/what-is-this/feed/
+0 1 0 476 1 0 0 0
+/blog/wp-content/uploads/2013/06/etiquetas-mail-para-contacto_socialmedia.png
+1 1 0 0 0 0 0 0
+/blog/wp-content/plugins/polylang/flags/en_US.png
+1 1 0 599 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/fullscreen/editor_plugin.js
+0 18 0 0 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/dsc_0597_resize/
+0 3 0 11403 2 2 0 0
+/blog/wp-content/uploads/2013/06/header-FB1.jpg
+1 1 0 0 0 0 0 0
+/blog/wp-includes/wlwmanifest.xml
+0 1 0 1052 0 0 0 0
+/blog/tag/saskia-sassen/feed/
+0 2 0 10796 1 0 0 0
+/blog/tag/gei/
+0 4 0 21065 3 1 0 0
+/blog/tag/opendata-fest/feed/
+0 1 0 2691 1 0 0 0
+/blog/es/comments/feed/
+0 10 0 14860 2 0 0 0
+/blog/wp-content/uploads/2013/09/emw-logo2013.jpg
+1 14 0 478247 0 0 0 0
+/blog/wp-admin/images/align-left.png
+1 1 0 0 0 0 0 0
+/blog/wp-includes/js/tinymce/plugins/paste/editor_plugin.js
+0 18 0 0 0 0 0 0
+/blog/wp-admin/images/xit.gif
+1 2 0 0 0 0 0 0
+/blog/wp-admin/images/list.png
+1 1 0 1003 0 0 0 0
+/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/vista_sala/
+0 6 0 22731 5 1 0 0
+/blog/wp-content/uploads/2013/10/eea_uk.jpg
+1 15 1 34414 0 0 0 0
+/blog/wp-admin/async-upload.php
+0 7 0 5102 0 0 0 0
+/blog/tag/ecodes/feed/
+0 1 0 4638 1 0 0 0
+/blog/wp-admin/
+0 2 0 34815 1 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+95.211.216.72
+0 1 1 251 1 1380822856
+- 0 0
+72.232.113.70
+0 10 6 53452 2 1380878744
+- 0 0
+198.27.82.151
+0 4 1 192 1 1381152441
+- 0 0
+198.27.82.153
+0 4 1 192 1 1381204029
+- 0 0
+199.19.249.196
+0 4 2 52452 2 1381765999
+- 0 0
+188.86.11.16
+0 13 12 455215 1 1381761000
+- 0 0
+46.236.24.49
+0 2 0 0 1 1381921986
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+54.226.16.211
+0 10 9 73308 6 1381923098
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+50.17.90.137
+0 2 1 6225 1 1381087153
+- 0 0
+54.205.196.53
+0 6 4 11520 2 1381923162
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+46.236.24.52
+0 2 0 0 1 1381752232
+- 0 0
+93.156.123.129
+0 13 12 436139 1 1381755188
+- 0 0
+201.212.5.74
+0 1 1 252815 0 0
+- 0 0
+66.249.66.49
+0 4 1 463 1 1381416672
+- 0 0
+222.184.14.195
+0 2 1 17227 1 1381922574
+/blog/es/ 0 0
+54.227.174.62
+0 10 6 53372 9 1381783664
+- 0 0
+100.43.81.12
+0 5 3 49454 1 1381778334
+- 0 0
+120.36.147.254
+0 3 2 12466 1 1381227235
+- 0 0
+65.52.244.220
+0 2 1 8365 1 1381752249
+- 0 0
+82.20.84.169
+0 15 12 521707 1 1381923089
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+123.195.112.109
+0 2 1 17227 1 1381922022
+/blog/es/ 0 0
+85.174.81.22
+0 2 1 17227 1 1381921776
+/blog/es/ 0 0
+222.74.217.129
+0 2 1 18967 1 1381753152
+- 0 0
+93.156.88.132
+0 5943 5057 6463067 16 1381943827
+/blog/wp-admin/admin-ajax.php 0 0
+74.112.131.241
+0 2 1 8365 1 1381752234
+- 0 0
+74.112.131.242
+0 1 0 0 0 0
+- 0 0
+74.112.131.243
+0 2 1 6266 1 1381921987
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+74.112.131.244
+0 1 1 26191 1 1381752240
+- 0 0
+74.112.131.246
+0 3 1 23047 2 1381926495
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+195.77.244.2
+0 13 13 456606 1 1381776994
+- 0 0
+123.119.129.108
+0 2 1 18967 1 1381753087
+- 0 0
+174.143.143.214
+0 7 7 851937 0 0
+- 0 0
+23.20.206.48
+0 11 9 79887 6 1381782112
+- 0 0
+125.125.185.125
+0 2 1 17227 1 1381922502
+/blog/es/ 0 0
+5.9.113.12
+0 2 1 192 1 1381750256
+- 0 0
+157.56.229.138
+0 3 1 14482 1 1380805033
+- 0 0
+79.125.22.108
+0 2 2 170048 1 1381761426
+- 0 0
+199.30.28.145
+0 2 1 137536 0 0
+- 0 0
+60.223.234.90
+0 2 1 18966 1 1381752852
+- 0 0
+185.10.104.132
+0 1 1 482 1 1381899071
+/blog/pagina-ejemplo/feed/ 0 0
+199.16.156.126
+0 3 2 12494 1 1381926495
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+107.20.52.164
+0 1 1 40021 0 0
+- 0 0
+81.45.53.14
+0 9 9 497055 1 1381922703
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+192.99.16.52
+0 4 2 33216 2 1381944063
+/blog/es/ 0 0
+175.44.28.228
+0 1 0 0 1 1381778312
+- 0 0
+209.114.36.45
+0 14 12 931855 1 1380726692
+- 0 0
+157.55.34.29
+0 2 1 5589 1 1380955685
+- 0 0
+118.249.156.113
+0 2 1 17224 1 1381922103
+/blog/es/ 0 0
+39.1.10.44
+0 2 1 18967 1 1381752926
+- 0 0
+128.69.207.29
+0 3 2 24464 1 1381499167
+- 0 0
+61.3.183.89
+0 2 1 19105 1 1381925318
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+117.204.66.220
+0 2 1 17224 1 1381922278
+/blog/es/ 0 0
+94.23.251.171
+0 1 1 251 1 1381299078
+- 0 0
+207.34.25.76
+0 1 0 0 0 0
+- 0 0
+107.20.52.170
+0 3 3 25048 3 1381770417
+- 0 0
+150.70.173.55
+0 1 1 26212 1 1381759414
+- 0 0
+85.57.167.129
+0 45 42 4551593 1 1381785403
+- 0 0
+85.155.9.33
+0 13 12 455215 1 1381759608
+- 0 0
+183.216.214.225
+0 2 1 18963 1 1381752968
+- 0 0
+66.249.66.9
+0 79 62 438820 35 1381500395
+- 0 0
+54.205.250.8
+0 2 2 6522 2 1381902093
+/ 0 0
+50.18.145.28
+0 1 0 0 1 1381929627
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+173.252.102.114
+0 1 1 141385 0 0
+- 0 0
+23.20.70.0
+0 2 1 6247 1 1381926773
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+46.137.149.28
+0 2 1 19091 1 1381922366
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+72.232.114.4
+0 5 3 26729 1 1380911170
+- 0 0
+54.216.247.158
+0 1 1 26218 1 1381758742
+- 0 0
+212.130.111.114
+0 12 12 521687 1 1381930186
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+95.61.85.205
+0 13 12 455369 1 1381783662
+- 0 0
+85.152.138.3
+0 15 13 406148 1 1380886233
+- 0 0
+65.55.52.94
+0 2 1 6978 1 1380659299
+- 0 0
+66.249.81.53
+0 32 31 3919614 1 1380701206
+- 0 0
+100.43.81.9
+0 7 4 55721 3 1381960140
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+69.196.253.30
+0 2 2 66130 1 1381372579
+- 0 0
+119.63.193.132
+0 1 1 251 1 1381719143
+- 0 0
+199.30.16.2
+0 4 2 82604 0 0
+- 0 0
+54.234.196.252
+0 1 1 251 1 1381813058
+- 0 0
+54.224.152.41
+0 1 0 0 0 0
+- 0 0
+77.27.59.217
+0 13 12 419001 1 1381349266
+- 0 0
+23.23.34.227
+0 2 1 8376 1 1381760862
+- 0 0
+66.249.93.53
+0 3 3 455838 0 0
+- 0 0
+69.171.229.112
+0 5 5 428022 0 0
+- 0 0
+69.171.229.113
+0 2 2 287644 0 0
+- 0 0
+69.171.229.114
+0 5 5 444592 0 0
+- 0 0
+69.171.229.116
+0 2 2 147632 1 1381922165
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+69.171.229.117
+0 3 3 289016 1 1381946176
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+69.171.229.118
+0 2 2 285207 0 0
+- 0 0
+69.171.229.119
+0 4 4 431658 1 1381486824
+- 0 0
+173.252.101.112
+0 2 2 266200 0 0
+- 0 0
+173.252.101.113
+0 1 1 141385 0 0
+- 0 0
+173.252.101.114
+0 1 1 143822 0 0
+- 0 0
+50.17.71.205
+0 6 5 40256 6 1381761555
+- 0 0
+173.252.101.115
+0 1 1 220280 0 0
+- 0 0
+173.252.101.116
+0 1 1 141385 0 0
+- 0 0
+173.252.101.117
+0 3 3 614480 0 0
+- 0 0
+213.99.28.153
+0 13 12 436139 1 1381854570
+- 0 0
+173.252.101.118
+0 1 1 141385 0 0
+- 0 0
+173.252.101.119
+0 1 1 252815 0 0
+- 0 0
+65.55.52.111
+0 2 1 4807 1 1381574161
+- 0 0
+184.72.158.161
+0 5 1 19091 1 1381929499
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+213.98.129.114
+0 14 12 455369 1 1381759348
+- 0 0
+37.59.16.202
+0 1 1 0 1 1381752943
+- 0 0
+23.20.161.232
+0 1 1 505 1 1381781538
+- 0 0
+66.249.75.9
+0 247 195 1645824 115 1381967239
+/blog/es/feed/ 0 0
+180.76.6.231
+0 3 3 17806 3 1381801709
+- 0 0
+180.76.6.232
+0 2 1 6244 2 1381355755
+- 0 0
+180.76.6.233
+0 2 1 4393 2 1381352380
+- 0 0
+173.252.112.113
+0 4 4 548402 0 0
+- 0 0
+173.252.112.114
+0 2 2 285207 0 0
+- 0 0
+212.183.205.15
+0 13 12 455215 1 1381759658
+- 0 0
+173.252.112.115
+0 1 1 143822 0 0
+- 0 0
+66.249.81.180
+0 3 1 463 1 1380701204
+- 0 0
+202.46.58.23
+0 1 1 251 1 1381416739
+- 0 0
+173.252.112.116
+0 2 2 268637 0 0
+- 0 0
+173.252.112.117
+0 4 4 170822 0 0
+- 0 0
+173.252.112.118
+0 3 2 15266 1 1381925208
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+202.46.58.29
+0 1 1 251 1 1381719119
+- 0 0
+173.192.79.101
+0 6 3 20863 3 1381929628
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+54.221.10.63
+0 1 1 8356 1 1381760277
+- 0 0
+192.187.109.226
+0 2 1 14484 1 1380988049
+- 0 0
+37.59.16.221
+0 4 2 0 1 1381752257
+- 0 0
+37.59.16.228
+0 1 1 6247 1 1381928122
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+23.22.39.206
+0 5 2 14649 3 1381921989
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.213
+0 1 1 399975 0 0
+- 0 0
+88.82.197.80
+0 13 12 455215 1 1381772497
+- 0 0
+60.161.145.243
+0 2 1 17227 1 1381921908
+/blog/es/ 0 0
+173.252.73.112
+0 2 2 345095 0 0
+- 0 0
+173.252.73.113
+0 2 2 287644 0 0
+- 0 0
+72.14.199.149
+0 18 15 1524087 3 1381734319
+- 0 0
+204.236.180.217
+0 3 1 33866 2 1381926496
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+173.252.73.114
+0 2 2 287644 0 0
+- 0 0
+23.22.131.24
+0 2 1 83842 1 1381752656
+- 0 0
+173.252.73.116
+0 1 1 141385 0 0
+- 0 0
+173.252.73.117
+0 1 1 143822 0 0
+- 0 0
+173.252.73.119
+0 3 3 519015 0 0
+- 0 0
+38.100.21.67
+0 3 1 578 1 1381455573
+- 0 0
+173.252.100.112
+0 2 2 268637 0 0
+- 0 0
+173.252.100.113
+0 2 2 285207 0 0
+- 0 0
+173.252.100.115
+0 1 1 143822 0 0
+- 0 0
+81.45.53.133
+0 12 12 455215 1 1381760631
+- 0 0
+173.252.100.117
+0 3 3 393452 0 0
+- 0 0
+173.252.100.118
+0 3 3 429029 0 0
+- 0 0
+173.252.100.119
+0 1 1 143822 0 0
+- 0 0
+54.235.8.78
+0 1 1 14866 1 1381781536
+- 0 0
+90.174.0.137
+0 12 12 455369 1 1381766445
+- 0 0
+84.94.50.146
+0 2 1 17227 1 1381921960
+/blog/es/ 0 0
+83.97.219.145
+0 13 12 419156 1 1381873982
+- 0 0
+66.249.73.7
+0 129 108 1017356 42 1381847973
+- 0 0
+218.203.175.217
+0 2 1 17227 1 1381921914
+/blog/es/ 0 0
+31.193.227.139
+0 104 96 8085528 10 1381929397
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+119.63.193.195
+0 1 1 251 1 1381416764
+- 0 0
+119.63.193.196
+0 1 1 251 1 1380826208
+- 0 0
+50.18.74.186
+0 1 1 19091 1 1381929627
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+66.249.84.3
+0 4 4 363698 0 0
+- 0 0
+180.76.6.17
+0 1 1 192 1 1381003964
+- 0 0
+77.225.12.37
+0 1 0 20 1 1381926406
+- 0 0
+81.45.53.151
+0 12 12 455215 1 1381913455
+/blog/2013/10/14/saskia-sassen-y-la-smart-city/ 0 0
+213.63.141.37
+0 14 12 580401 1 1381922878
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+174.129.151.255
+0 1 0 0 0 0
+- 0 0
+163.125.238.4
+0 2 1 18967 1 1381753054
+- 0 0
+82.130.196.242
+0 14 12 455215 1 1381761553
+- 0 0
+174.143.143.12
+0 3 3 369003 0 0
+- 0 0
+37.14.216.138
+0 13 12 455215 1 1381921599
+/blog/2013/10/14/saskia-sassen-y-la-smart-city/ 0 0
+93.156.74.20
+0 12 11 496413 1 1381949012
+/blog/es/ 0 0
+200.82.113.134
+0 14 12 455215 1 1381765686
+- 0 0
+37.139.21.200
+0 6 6 436564 1 1381764450
+- 0 0
+187.237.239.52
+0 12 12 455369 1 1381852825
+- 0 0
+84.77.232.194
+0 10 8 411247 1 1381761395
+- 0 0
+175.106.177.24
+0 2 1 17227 1 1381922452
+/blog/es/ 0 0
+175.44.29.45
+0 1 0 0 1 1381770368
+- 0 0
+58.253.4.90
+0 2 1 17227 1 1381923018
+/blog/es/ 0 0
+180.124.4.56
+0 2 1 17224 1 1381922049
+/blog/es/ 0 0
+54.205.232.92
+0 6 3 23942 5 1381901957
+/ 0 0
+174.143.143.26
+0 2 2 244188 0 0
+- 0 0
+95.16.158.104
+0 16 12 521687 1 1381931533
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+54.220.187.204
+0 1 1 392 1 1381759133
+- 0 0
+37.140.141.9
+0 18 8 1536 8 1381836008
+- 0 0
+173.252.110.113
+0 1 1 137536 0 0
+- 0 0
+173.252.110.115
+0 1 1 143822 0 0
+- 0 0
+173.252.110.116
+0 1 1 6330 1 1381349267
+- 0 0
+173.252.110.117
+0 3 3 370665 0 0
+- 0 0
+173.252.110.118
+0 1 1 9000 0 0
+- 0 0
+173.252.110.119
+0 2 2 249630 0 0
+- 0 0
+176.9.28.106
+0 2 0 0 1 1381922953
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+65.55.24.236
+0 2 1 192 1 1381483591
+- 0 0
+66.249.82.9
+0 37 35 4212533 1 1380675309
+- 0 0
+88.84.67.108
+0 13 12 500022 1 1381759163
+- 0 0
+178.137.41.84
+0 4 3 753 1 1381029043
+- 0 0
+54.237.46.191
+0 13 9 75493 12 1381921245
+/blog/ 0 0
+175.44.30.59
+0 2 0 0 2 1381776961
+- 0 0
+66.249.73.81
+0 4 1 463 1 1381700694
+- 0 0
+85.152.52.194
+0 85 72 8762209 2 1381829514
+- 0 0
+157.55.33.253
+0 2 1 4365 1 1381382860
+- 0 0
+23.20.242.217
+0 1 1 26226 1 1381781535
+- 0 0
+161.111.24.103
+0 13 12 455369 1 1381765681
+- 0 0
+37.191.76.155
+0 2 1 17227 1 1381923849
+/blog/es/ 0 0
+54.224.105.237
+0 1 1 40021 0 0
+- 0 0
+209.114.36.246
+0 3 3 369003 0 0
+- 0 0
+199.30.20.25
+0 2 1 43477 0 0
+- 0 0
+54.215.104.89
+0 1 0 0 1 1381926495
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+208.115.113.83
+0 2 1 21157 1 1381812227
+- 0 0
+213.60.67.108
+0 12 12 455369 1 1381760956
+- 0 0
+184.72.198.91
+0 2 1 6244 1 1381929943
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+50.17.105.104
+0 2 2 14600 2 1381940908
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+175.44.30.2
+0 1 0 0 1 1381775535
+- 0 0
+66.249.75.49
+0 12 3 1389 3 1381170723
+- 0 0
+150.70.75.167
+0 1 1 251 1 1381762203
+- 0 0
+8.35.201.48
+0 1 0 0 0 0
+- 0 0
+184.169.203.101
+0 11 5 0 6 1381929626
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+93.156.83.173
+0 14 12 455215 1 1381761117
+- 0 0
+8.35.201.50
+0 1 1 192 1 1381760935
+- 0 0
+213.60.131.156
+0 13 12 436139 1 1381761422
+- 0 0
+213.96.233.184
+0 68 45 4437712 1 1380907551
+- 0 0
+199.30.20.43
+0 2 1 43477 0 0
+- 0 0
+218.6.70.198
+0 1 0 0 1 1381288322
+- 0 0
+116.24.229.222
+0 2 1 18967 1 1381752952
+- 0 0
+151.62.29.11
+0 1 0 0 0 0
+- 0 0
+93.156.89.227
+0 14 12 455235 1 1381759463
+- 0 0
+216.52.242.14
+0 4 4 395162 0 0
+- 0 0
+91.192.96.237
+0 2 1 17224 1 1381922484
+/blog/es/ 0 0
+54.221.107.65
+0 1 1 6247 1 1381930581
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+14.96.22.152
+0 1 0 20 1 1381923298
+/blog/ 0 0
+61.163.216.134
+0 2 1 18963 1 1381752926
+- 0 0
+217.127.197.108
+0 1 1 26218 1 1381811884
+- 0 0
+157.55.252.30
+0 2 1 6264 1 1381926475
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+110.152.127.96
+0 2 1 17227 1 1381921775
+/blog/es/ 0 0
+180.76.5.7
+0 2 2 20601 2 1381622622
+- 0 0
+65.55.213.73
+0 9 4 31426 4 1381935513
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.8
+0 1 1 2691 1 1381768184
+- 0 0
+209.114.46.235
+0 7 7 862821 0 0
+- 0 0
+117.140.35.154
+0 2 1 17224 1 1381922338
+/blog/es/ 0 0
+61.172.115.194
+0 2 1 17224 1 1381923191
+/blog/es/ 0 0
+54.248.36.64
+0 2 1 8362 1 1381752248
+- 0 0
+209.114.46.240
+0 6 6 727122 0 0
+- 0 0
+81.37.66.117
+0 1 1 6330 1 1380795099
+- 0 0
+223.80.23.2
+0 2 1 17227 1 1381922578
+/blog/es/ 0 0
+46.105.59.74
+0 1 1 0 1 1381501023
+- 0 0
+121.16.154.20
+0 2 1 18963 1 1381753203
+- 0 0
+37.59.18.36
+0 1 1 0 1 1381752943
+- 0 0
+69.171.247.112
+0 1 1 143822 0 0
+- 0 0
+69.171.247.113
+0 1 1 141385 0 0
+- 0 0
+69.171.247.114
+0 1 1 124815 0 0
+- 0 0
+69.171.247.115
+0 2 2 285207 0 0
+- 0 0
+69.171.247.116
+0 4 4 632739 0 0
+- 0 0
+70.39.246.37
+0 4 3 47685 2 1381921622
+/blog/es/feed/ 0 0
+69.171.247.118
+0 3 3 535475 0 0
+- 0 0
+69.171.237.8
+0 4 3 162607 2 1381921627
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+69.171.247.119
+0 3 3 388010 0 0
+- 0 0
+69.171.237.9
+0 2 2 150385 0 0
+- 0 0
+65.55.215.33
+0 4 2 156416 0 0
+- 0 0
+183.139.171.136
+0 2 1 17224 1 1381922442
+/blog/es/ 0 0
+65.55.215.35
+0 4 2 135606 0 0
+- 0 0
+117.203.243.224
+0 2 1 15992 1 1381754588
+- 0 0
+37.59.18.46
+0 2 1 0 1 1381922782
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+37.59.18.48
+0 2 2 0 1 1381929683
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+184.72.159.8
+0 3 0 0 0 0
+- 0 0
+15.185.110.49
+0 2 1 26218 1 1381896475
+/blog/2013/10/14/saskia-sassen-y-la-smart-city/ 0 0
+54.217.115.147
+0 1 1 414 1 1381922639
+/blog/xmlrpc.php 0 0
+199.30.20.95
+0 2 1 247981 0 0
+- 0 0
+118.248.123.60
+0 2 1 17227 1 1381921974
+/blog/es/ 0 0
+195.57.139.13
+0 13 12 455215 1 1381759570
+- 0 0
+69.171.224.113
+0 1 1 143822 0 0
+- 0 0
+69.171.224.114
+0 1 1 143822 0 0
+- 0 0
+69.171.224.115
+0 2 2 285207 0 0
+- 0 0
+184.72.6.38
+0 2 0 0 1 1381921984
+/blog/ 0 0
+69.171.224.118
+0 2 2 394200 0 0
+- 0 0
+69.171.224.119
+0 1 1 124815 0 0
+- 0 0
+199.30.20.101
+0 2 1 119373 0 0
+- 0 0
+65.55.215.55
+0 2 1 159561 0 0
+- 0 0
+54.226.207.36
+0 22 22 761019 2 1381142765
+- 0 0
+36.248.162.101
+0 2 1 14482 1 1380884279
+- 0 0
+69.171.235.119
+0 1 0 0 0 0
+- 0 0
+199.59.148.209
+0 6 3 20850 2 1381929626
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+199.30.20.112
+0 2 1 247981 0 0
+- 0 0
+199.30.20.114
+0 2 1 247981 0 0
+- 0 0
+65.55.215.67
+0 2 1 252815 0 0
+- 0 0
+173.252.103.3
+0 1 1 143822 0 0
+- 0 0
+83.38.52.66
+0 12 12 455369 1 1381761267
+- 0 0
+112.5.138.200
+0 2 1 17227 1 1381922168
+/blog/es/ 0 0
+27.147.36.152
+0 2 1 15992 1 1381754256
+- 0 0
+54.211.140.95
+0 4 3 20839 2 1381930583
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+111.58.120.30
+0 2 1 17227 1 1381922176
+/blog/es/ 0 0
+54.205.152.220
+0 1 1 0 1 1381331631
+- 0 0
+199.59.148.210
+0 9 4 160162 2 1381921986
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+199.59.148.211
+0 7 4 168868 1 1381752240
+- 0 0
+36.248.162.111
+0 6 2 36063 2 1380892496
+- 0 0
+54.226.107.132
+0 1 1 62274 0 0
+- 0 0
+201.164.194.147
+0 1 1 243267 0 0
+- 0 0
+194.224.154.98
+0 13 12 436139 1 1381767187
+- 0 0
+84.76.247.203
+0 13 12 455215 1 1381759510
+- 0 0
+82.159.255.58
+0 14 12 455215 1 1381770411
+- 0 0
+65.55.215.82
+0 2 1 67803 0 0
+- 0 0
+199.30.20.131
+0 4 2 249630 0 0
+- 0 0
+83.32.245.163
+0 14 12 455369 1 1381760676
+- 0 0
+175.44.29.124
+0 3 0 0 3 1381772616
+- 0 0
+50.16.60.209
+0 15 7 287960 1 1381753298
+- 0 0
+122.137.213.174
+0 2 1 17227 1 1381922210
+/blog/es/ 0 0
+69.171.234.113
+0 2 2 268637 0 0
+- 0 0
+112.103.9.7
+0 2 1 17224 1 1381921775
+/blog/es/ 0 0
+69.171.234.115
+0 1 1 143822 0 0
+- 0 0
+78.46.49.208
+0 2 0 0 1 1381926704
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+198.27.66.76
+0 4 1 192 1 1381160908
+- 0 0
+85.152.238.240
+0 14 12 455215 1 1381756300
+- 0 0
+117.7.236.87
+0 2 1 18963 1 1381752918
+- 0 0
+213.227.41.28
+0 9 8 393287 1 1381229035
+- 0 0
+72.233.96.194
+0 5 3 26729 1 1381534579
+- 0 0
+5.9.112.67
+0 1 0 0 1 1381770186
+- 0 0
+54.225.58.239
+0 6 4 29215 2 1381922305
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+95.24.90.81
+0 2 1 12232 1 1381065305
+- 0 0
+64.74.215.110
+0 2 0 20 1 1381804045
+- 0 0
+125.72.30.27
+0 2 1 17224 1 1381922084
+/blog/es/ 0 0
+72.232.115.2
+0 5 3 26726 1 1380960197
+- 0 0
+192.99.9.136
+0 4 2 30478 2 1381833122
+- 0 0
+62.15.121.32
+0 14 12 744835 1 1381400548
+- 0 0
+54.224.138.61
+0 1 1 141385 0 0
+- 0 0
+64.74.215.126
+0 51 48 339655 1 1381922499
+/blog/tag/ecodes/ 0 0
+89.107.180.34
+0 13 12 455215 1 1381765999
+- 0 0
+121.228.185.92
+0 2 1 18967 1 1381753161
+- 0 0
+36.62.139.240
+0 2 1 18963 1 1381752738
+- 0 0
+174.143.143.143
+0 2 2 244188 0 0
+- 0 0
+85.152.242.181
+0 78 50 6239616 2 1381945235
+/RespiraXixon/ 0 0
+107.20.3.119
+0 3 1 8359 1 1381752303
+- 0 0
+69.171.233.112
+0 4 2 26476 1 1381946183
+/blog/es/ 0 0
+69.171.233.113
+0 3 3 294207 0 0
+- 0 0
+69.171.233.114
+0 1 1 9000 0 0
+- 0 0
+69.171.233.115
+0 2 2 18000 0 0
+- 0 0
+69.171.233.116
+0 3 3 27000 0 0
+- 0 0
+69.171.233.117
+0 3 3 27000 0 0
+- 0 0
+109.144.153.96
+0 13 12 436139 1 1381760780
+- 0 0
+69.171.233.118
+0 3 3 27000 0 0
+- 0 0
+69.171.233.119
+0 3 3 27000 0 0
+- 0 0
+180.175.146.198
+0 2 1 17227 1 1381921964
+/blog/es/ 0 0
+150.241.235.1
+0 14 12 436139 1 1381761463
+- 0 0
+98.137.207.118
+0 22 2 45323 4 1381929631
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+189.135.226.194
+0 13 12 455369 1 1381782106
+- 0 0
+69.171.237.10
+0 2 1 141086 1 1381741027
+- 0 0
+69.171.237.11
+0 4 4 304983 1 1381752220
+- 0 0
+69.171.237.12
+0 4 4 286637 0 0
+- 0 0
+69.171.237.13
+0 4 3 165577 1 1381921224
+/blog/ 0 0
+69.171.237.14
+0 4 4 438029 0 0
+- 0 0
+36.248.162.195
+0 3 1 18032 1 1380655303
+- 0 0
+69.171.237.15
+0 2 2 268637 0 0
+- 0 0
+157.55.35.33
+0 2 1 4534 1 1380639226
+- 0 0
+107.21.64.167
+0 5 4 35752 2 1381760855
+- 0 0
+157.56.93.71
+0 2 1 192 1 1381275922
+- 0 0
+157.55.35.38
+0 2 1 192 1 1381389788
+- 0 0
+157.56.93.74
+0 2 1 1292 1 1381069434
+- 0 0
+64.246.165.170
+0 1 1 858 1 1381333505
+- 0 0
+117.212.115.41
+0 2 1 18967 1 1381754055
+- 0 0
+88.1.199.19
+0 15 12 436139 1 1381760022
+- 0 0
+85.52.113.177
+0 13 12 436139 1 1381759671
+- 0 0
+82.98.141.46
+0 7 0 0 4 1381929626
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+144.76.176.135
+0 2 2 0 1 1381752970
+- 0 0
+54.224.175.32
+0 2 1 8339 1 1381753735
+- 0 0
+171.100.58.103
+0 1 1 251 1 1380797177
+- 0 0
+194.224.15.55
+0 14 13 467506 1 1381760209
+- 0 0
+157.55.35.52
+0 2 1 6171 1 1381623793
+- 0 0
+193.203.71.210
+0 13 12 436139 1 1381759366
+- 0 0
+176.9.151.196
+0 1 0 0 1 1381922277
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+23.29.122.222
+0 5 4 45323 2 1381929646
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+60.163.216.180
+0 2 1 17224 1 1381922009
+/blog/es/ 0 0
+162.243.37.11
+0 1 1 0 1 1381343583
+- 0 0
+110.234.17.97
+0 2 1 18967 1 1381753019
+- 0 0
+134.0.8.38
+0 80 80 0 49 1381952198
+/blog/wp-cron.php 0 0
+199.30.16.14
+0 4 2 505630 0 0
+- 0 0
+195.55.79.47
+0 14 12 500022 1 1381759158
+- 0 0
+78.46.85.137
+0 1 0 0 1 1381929724
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+190.40.211.183
+0 1 1 67803 0 0
+- 0 0
+54.242.255.246
+0 15 7 287969 1 1381753299
+- 0 0
+54.237.99.81
+0 2 2 244188 0 0
+- 0 0
+54.221.178.192
+0 2 2 384 1 1381600222
+- 0 0
+180.76.5.11
+0 1 0 0 0 0
+- 0 0
+180.76.5.12
+0 1 1 11793 1 1380606934
+- 0 0
+180.76.5.13
+0 1 1 2683 1 1381920525
+/blog/tag/ctic/feed/ 0 0
+41.216.50.83
+0 1 1 251 1 1380961031
+- 0 0
+180.76.5.15
+0 3 2 9148 3 1381694006
+- 0 0
+180.76.5.16
+0 1 1 5064 1 1381605476
+- 0 0
+180.76.5.18
+0 2 2 9715 2 1381836111
+- 0 0
+180.76.5.19
+0 1 1 4835 1 1381736370
+- 0 0
+199.30.16.32
+0 2 1 635860 0 0
+- 0 0
+157.55.35.85
+0 4 2 18244 2 1381533181
+- 0 0
+81.45.53.248
+0 12 12 436139 1 1381761335
+- 0 0
+180.76.5.24
+0 2 1 7228 2 1381657232
+- 0 0
+180.76.5.25
+0 1 1 5595 1 1381445978
+- 0 0
+54.224.222.196
+0 3 1 6267 1 1381932214
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.29
+0 1 0 249 1 1381956464
+- 0 0
+54.221.161.40
+0 2 1 8376 1 1381759499
+- 0 0
+87.235.95.69
+0 13 12 502451 1 1381926471
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+54.227.167.92
+0 13 11 85220 8 1381766462
+- 0 0
+186.105.115.241
+0 1 1 252815 0 0
+- 0 0
+213.39.33.67
+0 13 12 455369 1 1381759741
+- 0 0
+150.70.172.107
+0 1 1 26212 1 1381759549
+- 0 0
+50.18.246.1
+0 2 1 26185 1 1381752236
+- 0 0
+65.52.241.141
+0 2 1 6266 1 1381922224
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.110
+0 4 3 15968 4 1381546272
+- 0 0
+217.127.77.220
+0 13 12 436139 1 1381760002
+- 0 0
+199.30.16.52
+0 2 1 124379 0 0
+- 0 0
+66.220.152.112
+0 2 2 133815 0 0
+- 0 0
+180.76.5.48
+0 1 1 2777 1 1381942137
+/blog/tag/co2/feed/ 0 0
+66.220.152.113
+0 1 1 9000 0 0
+- 0 0
+69.171.242.113
+0 1 1 119373 0 0
+- 0 0
+69.171.242.114
+0 2 2 285207 0 0
+- 0 0
+66.220.152.114
+0 5 5 560407 0 0
+- 0 0
+66.220.152.115
+0 1 1 143822 0 0
+- 0 0
+69.171.242.115
+0 1 1 143822 0 0
+- 0 0
+69.171.242.116
+0 1 1 141385 0 0
+- 0 0
+66.220.152.116
+0 3 3 412459 0 0
+- 0 0
+66.220.152.117
+0 2 2 278921 0 0
+- 0 0
+66.220.152.118
+0 2 1 8376 1 1381755189
+- 0 0
+69.171.242.118
+0 1 1 119373 0 0
+- 0 0
+69.171.242.119
+0 1 1 124815 0 0
+- 0 0
+66.220.152.119
+0 4 4 419022 0 0
+- 0 0
+95.26.146.55
+0 3 2 27046 1 1381214263
+- 0 0
+212.166.79.170
+0 13 12 521555 1 1381925012
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+23.20.109.146
+0 1 1 1243 1 1381781537
+- 0 0
+198.101.197.26
+0 4 4 482934 0 0
+- 0 0
+180.76.5.51
+0 2 1 5619 2 1381870664
+- 0 0
+180.76.5.52
+0 1 1 14465 1 1380732505
+- 0 0
+180.76.5.55
+0 2 1 2434 2 1381956464
+/blog/ 0 0
+180.76.5.56
+0 2 2 7669 2 1381241808
+- 0 0
+180.76.5.57
+0 1 0 249 1 1381003965
+- 0 0
+23.22.64.214
+0 9 4 245828 1 1381752574
+- 0 0
+180.76.5.59
+0 1 0 0 0 0
+- 0 0
+93.156.83.222
+0 46 44 4576075 2 1381848761
+- 0 0
+180.76.5.135
+0 1 1 507 1 1381714694
+- 0 0
+209.114.39.194
+0 3 3 358119 0 0
+- 0 0
+180.76.5.137
+0 1 1 192 1 1381870659
+- 0 0
+180.76.5.138
+0 1 1 4847 1 1381784387
+- 0 0
+216.145.17.190
+0 5 2 2877 1 1381066107
+- 0 0
+182.236.160.211
+0 3 3 753 3 1381941574
+/ 0 0
+180.76.5.139
+0 1 1 15973 1 1381870665
+- 0 0
+88.17.131.187
+0 26 23 2175415 1 1381150194
+- 0 0
+117.136.37.12
+0 1 0 20 1 1381923075
+/blog/ 0 0
+174.143.142.42
+0 5 5 613191 0 0
+- 0 0
+178.32.51.76
+0 2 1 0 1 1381936910
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.61
+0 1 1 4641 1 1381674506
+- 0 0
+180.76.5.64
+0 1 1 4765 1 1381955126
+/blog/category/sin-categoria/feed/ 0 0
+184.72.132.210
+0 2 2 152172 1 1381854574
+- 0 0
+180.76.5.65
+0 1 1 6062 1 1381524781
+- 0 0
+180.76.5.66
+0 1 1 4537 1 1381184835
+- 0 0
+180.76.5.67
+0 1 1 7493 1 1381965666
+/blog/tag/movilidad-sostenible/ 0 0
+180.76.5.69
+0 1 1 504 1 1381037501
+- 0 0
+46.4.10.21
+0 1 0 0 1 1381924002
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+37.59.16.157
+0 1 1 6244 1 1381922784
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.140
+0 1 1 2756 1 1381746536
+- 0 0
+66.249.83.9
+0 7 7 859764 0 0
+- 0 0
+180.76.5.142
+0 2 2 3632 2 1381152641
+- 0 0
+180.76.5.143
+0 1 0 20 1 1381364327
+- 0 0
+180.76.5.145
+0 2 2 6913 2 1381694007
+- 0 0
+180.76.5.147
+0 3 3 21664 2 1381489044
+- 0 0
+180.76.5.148
+0 2 2 5041 2 1381725042
+- 0 0
+54.224.215.202
+0 1 1 124481 0 0
+- 0 0
+211.20.160.166
+0 1 0 20 1 1381922145
+/blog/ 0 0
+173.252.77.0
+0 3 3 580077 0 0
+- 0 0
+173.252.77.1
+0 1 1 52473 0 0
+- 0 0
+37.59.16.161
+0 2 2 16678 1 1381752260
+- 0 0
+173.252.77.2
+0 4 4 574433 0 0
+- 0 0
+173.252.77.3
+0 6 6 1342223 0 0
+- 0 0
+176.31.233.146
+0 1 1 19105 1 1381936593
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+173.252.77.4
+0 2 2 182357 0 0
+- 0 0
+173.252.77.5
+0 1 1 137670 0 0
+- 0 0
+173.252.77.6
+0 1 1 78208 0 0
+- 0 0
+180.76.5.151
+0 3 3 11394 2 1381693106
+- 0 0
+65.52.241.183
+0 2 1 8362 1 1381752711
+- 0 0
+180.76.5.155
+0 1 1 468 1 1381354854
+- 0 0
+180.76.5.156
+0 1 1 7504 1 1381430682
+- 0 0
+157.55.33.113
+0 4 2 12122 2 1381830060
+- 0 0
+180.76.5.86
+0 4 3 11839 4 1381693105
+- 0 0
+54.227.101.88
+0 1 1 31367 0 0
+- 0 0
+180.76.5.88
+0 1 1 6326 1 1381203871
+- 0 0
+180.76.5.160
+0 1 0 20 1 1380769604
+- 0 0
+180.76.5.167
+0 1 1 4800 1 1381411665
+- 0 0
+180.76.5.168
+0 1 1 192 1 1380689524
+- 0 0
+180.76.5.169
+0 2 1 6361 2 1381352381
+- 0 0
+95.16.27.161
+0 15 12 502471 1 1381928211
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.90
+0 3 2 4863 3 1381877449
+- 0 0
+180.76.5.91
+0 1 1 1259 1 1380952547
+- 0 0
+194.73.65.42
+0 19 17 530908 1 1381760848
+- 0 0
+180.76.5.93
+0 2 2 8574 2 1381355756
+- 0 0
+180.76.5.94
+0 1 1 3137 1 1381640006
+- 0 0
+54.227.201.42
+0 4 2 384 1 1381902662
+/ 0 0
+180.76.5.95
+0 1 0 20 1 1381003969
+- 0 0
+180.76.5.97
+0 1 1 3784 1 1380995169
+- 0 0
+180.166.31.2
+0 2 1 18966 1 1381752882
+- 0 0
+23.20.183.192
+0 2 1 8370 1 1381758398
+- 0 0
+180.76.5.170
+0 1 1 517 1 1381703517
+- 0 0
+180.76.5.171
+0 1 1 2483 1 1381299868
+- 0 0
+180.76.5.173
+0 3 2 3906 3 1381355754
+- 0 0
+180.76.5.176
+0 2 2 18710 2 1381232302
+- 0 0
+180.76.5.177
+0 2 2 12130 2 1381119840
+- 0 0
+66.249.74.57
+0 1 1 3822 1 1381329621
+- 0 0
+180.76.5.179
+0 3 2 11716 3 1381870663
+- 0 0
+121.199.26.58
+0 2 1 18967 1 1381753929
+- 0 0
+54.224.189.70
+0 1 1 6244 1 1381930581
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.180
+0 1 1 530 1 1381020262
+- 0 0
+202.46.62.28
+0 1 1 251 1 1380826186
+- 0 0
+180.76.5.181
+0 1 1 192 1 1381352380
+- 0 0
+180.76.5.182
+0 1 1 491 1 1381087929
+- 0 0
+180.76.5.185
+0 1 0 2349 1 1381818919
+- 0 0
+54.215.102.164
+0 2 1 26218 1 1381759457
+- 0 0
+180.76.5.187
+0 1 0 249 1 1381694005
+- 0 0
+180.76.5.189
+0 1 1 17207 1 1381956468
+/blog/es/ 0 0
+83.97.215.59
+0 85 60 6715225 2 1381753329
+- 0 0
+175.44.31.47
+0 3 0 0 3 1381768595
+- 0 0
+180.76.5.191
+0 1 1 192 1 1381956463
+/ 0 0
+180.76.5.192
+0 1 0 249 1 1380689527
+- 0 0
+54.224.145.47
+0 1 1 143822 0 0
+- 0 0
+180.76.5.194
+0 1 1 6619 1 1381109508
+- 0 0
+180.76.5.197
+0 4 4 10703 3 1381589334
+- 0 0
+180.76.5.199
+0 1 1 2285 1 1381960495
+/blog/tag/accion-ciudadana/feed/ 0 0
+157.55.32.111
+0 2 0 0 1 1380766002
+- 0 0
+192.114.71.13
+0 1 1 192 1 1381555984
+- 0 0
+86.122.160.185
+0 2 1 17227 1 1381921954
+/blog/es/ 0 0
+69.58.178.58
+0 15 11 261595 1 1381555364
+- 0 0
+202.46.50.67
+0 1 1 4807 1 1381547975
+- 0 0
+54.226.218.103
+0 1 1 6236 1 1381921637
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+209.114.36.149
+0 3 3 369003 0 0
+- 0 0
+65.52.244.38
+0 3 2 12514 2 1381926496
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+147.83.35.219
+0 24 23 2156182 1 1381142753
+- 0 0
+176.9.139.112
+0 3 1 251 2 1381766358
+- 0 0
+54.227.95.75
+0 2 1 6244 1 1381926771
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+77.227.48.145
+0 11 9 430889 1 1381765157
+- 0 0
+84.124.18.4
+0 13 12 455369 1 1381760455
+- 0 0
+209.114.46.109
+0 5 5 613191 0 0
+- 0 0
+95.25.54.216
+0 3 2 28504 1 1380657230
+- 0 0
+157.55.32.143
+0 2 1 6224 1 1381716351
+- 0 0
+187.191.31.80
+0 94 51 1535801 6 1381967849
+/blog/2013/10/14/saskia-sassen-y-la-smart-city/ 0 0
+116.23.138.72
+0 1 0 0 1 1381755783
+- 0 0
+222.93.2.31
+0 2 1 17227 1 1381922894
+/blog/es/ 0 0
+157.55.32.154
+0 2 1 6074 1 1381699788
+- 0 0
+208.184.81.30
+0 4 2 14588 2 1381923779
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+46.236.24.49
+0 2 0 0 1 1381921986
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+54.226.16.211
+0 2 2 12491 1 1381923098
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+54.205.196.53
+0 6 4 11520 2 1381923162
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+222.184.14.195
+0 2 1 17227 1 1381922574
+/blog/es/ 0 0
+82.20.84.169
+0 15 12 521707 1 1381923089
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+123.195.112.109
+0 2 1 17227 1 1381922022
+/blog/es/ 0 0
+85.174.81.22
+0 2 1 17227 1 1381921776
+/blog/es/ 0 0
+93.156.88.132
+0 1138 774 3252353 3 1381943827
+/blog/wp-admin/admin-ajax.php 0 0
+74.112.131.243
+0 2 1 6266 1 1381921987
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+74.112.131.246
+0 3 1 23047 2 1381926495
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+125.125.185.125
+0 2 1 17227 1 1381922502
+/blog/es/ 0 0
+185.10.104.132
+0 1 1 482 1 1381899071
+/blog/pagina-ejemplo/feed/ 0 0
+199.16.156.126
+0 3 2 12494 1 1381926495
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+107.20.52.164
+0 1 1 40021 0 0
+- 0 0
+81.45.53.14
+0 9 9 497055 1 1381922703
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+192.99.16.52
+0 2 1 17224 1 1381944063
+/blog/es/ 0 0
+118.249.156.113
+0 2 1 17224 1 1381922103
+/blog/es/ 0 0
+61.3.183.89
+0 2 1 19105 1 1381925318
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+117.204.66.220
+0 2 1 17224 1 1381922278
+/blog/es/ 0 0
+54.205.250.8
+0 1 1 192 1 1381902093
+/ 0 0
+50.18.145.28
+0 1 0 0 1 1381929627
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+173.252.102.114
+0 1 1 141385 0 0
+- 0 0
+23.20.70.0
+0 2 1 6247 1 1381926773
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+46.137.149.28
+0 2 1 19091 1 1381922366
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+212.130.111.114
+0 12 12 521687 1 1381930186
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+66.249.81.53
+0 2 2 166117 0 0
+- 0 0
+100.43.81.9
+0 2 1 6267 1 1381960140
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+69.171.229.112
+0 3 3 159385 0 0
+- 0 0
+69.171.229.114
+0 4 4 300770 0 0
+- 0 0
+69.171.229.116
+0 2 2 147632 1 1381922165
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+69.171.229.117
+0 3 3 289016 1 1381946176
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+69.171.229.118
+0 1 1 141385 0 0
+- 0 0
+173.252.101.112
+0 1 1 141385 0 0
+- 0 0
+173.252.101.113
+0 1 1 141385 0 0
+- 0 0
+173.252.101.116
+0 1 1 141385 0 0
+- 0 0
+173.252.101.117
+0 1 1 141385 0 0
+- 0 0
+173.252.101.118
+0 1 1 141385 0 0
+- 0 0
+173.252.101.119
+0 1 1 252815 0 0
+- 0 0
+184.72.158.161
+0 5 1 19091 1 1381929499
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+66.249.75.9
+0 42 33 396049 10 1381967239
+/blog/es/feed/ 0 0
+173.252.112.113
+0 2 2 260758 0 0
+- 0 0
+173.252.112.114
+0 1 1 141385 0 0
+- 0 0
+173.252.112.117
+0 3 3 27000 0 0
+- 0 0
+173.252.112.118
+0 3 2 15266 1 1381925208
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+173.192.79.101
+0 3 2 12490 2 1381929628
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+37.59.16.228
+0 1 1 6247 1 1381928122
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+23.22.39.206
+0 2 1 6264 1 1381921989
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+60.161.145.243
+0 2 1 17227 1 1381921908
+/blog/es/ 0 0
+204.236.180.217
+0 3 1 33866 2 1381926496
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+173.252.73.116
+0 1 1 141385 0 0
+- 0 0
+173.252.73.119
+0 1 1 141385 0 0
+- 0 0
+173.252.100.113
+0 1 1 141385 0 0
+- 0 0
+173.252.100.118
+0 1 1 141385 0 0
+- 0 0
+84.94.50.146
+0 2 1 17227 1 1381921960
+/blog/es/ 0 0
+218.203.175.217
+0 2 1 17227 1 1381921914
+/blog/es/ 0 0
+31.193.227.139
+0 24 16 1283870 1 1381929397
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+50.18.74.186
+0 1 1 19091 1 1381929627
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+77.225.12.37
+0 1 0 20 1 1381926406
+- 0 0
+81.45.53.151
+0 12 12 455215 1 1381913455
+/blog/2013/10/14/saskia-sassen-y-la-smart-city/ 0 0
+213.63.141.37
+0 14 12 580401 1 1381922878
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+37.14.216.138
+0 13 12 455215 1 1381921599
+/blog/2013/10/14/saskia-sassen-y-la-smart-city/ 0 0
+93.156.74.20
+0 12 11 496413 1 1381949012
+/blog/es/ 0 0
+175.106.177.24
+0 2 1 17227 1 1381922452
+/blog/es/ 0 0
+58.253.4.90
+0 2 1 17227 1 1381923018
+/blog/es/ 0 0
+180.124.4.56
+0 2 1 17224 1 1381922049
+/blog/es/ 0 0
+54.205.232.92
+0 1 1 192 1 1381901957
+/ 0 0
+95.16.158.104
+0 16 12 521687 1 1381931533
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+173.252.110.117
+0 1 1 141385 0 0
+- 0 0
+176.9.28.106
+0 2 0 0 1 1381922953
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+54.237.46.191
+0 1 0 2349 1 1381921245
+/blog/ 0 0
+37.191.76.155
+0 2 1 17227 1 1381923849
+/blog/es/ 0 0
+54.224.105.237
+0 1 1 40021 0 0
+- 0 0
+54.215.104.89
+0 1 0 0 1 1381926495
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+50.17.105.104
+0 1 1 6244 1 1381940908
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+184.72.198.91
+0 2 1 6244 1 1381929943
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+184.169.203.101
+0 5 3 0 3 1381929626
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+91.192.96.237
+0 2 1 17224 1 1381922484
+/blog/es/ 0 0
+54.221.107.65
+0 1 1 6247 1 1381930581
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+14.96.22.152
+0 1 0 20 1 1381923298
+/blog/ 0 0
+157.55.252.30
+0 2 1 6264 1 1381926475
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+110.152.127.96
+0 2 1 17227 1 1381921775
+/blog/es/ 0 0
+65.55.213.73
+0 9 4 31426 4 1381935513
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+209.114.46.235
+0 3 3 374445 0 0
+- 0 0
+117.140.35.154
+0 2 1 17224 1 1381922338
+/blog/es/ 0 0
+61.172.115.194
+0 2 1 17224 1 1381923191
+/blog/es/ 0 0
+223.80.23.2
+0 2 1 17227 1 1381922578
+/blog/es/ 0 0
+69.171.247.112
+0 1 1 143822 0 0
+- 0 0
+69.171.247.113
+0 1 1 141385 0 0
+- 0 0
+69.171.247.115
+0 1 1 141385 0 0
+- 0 0
+70.39.246.37
+0 1 1 16826 1 1381921622
+/blog/es/feed/ 0 0
+69.171.237.8
+0 1 1 6236 1 1381921627
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+69.171.247.119
+0 1 1 119373 0 0
+- 0 0
+69.171.237.9
+0 2 2 150385 0 0
+- 0 0
+183.139.171.136
+0 2 1 17224 1 1381922442
+/blog/es/ 0 0
+37.59.18.46
+0 2 1 0 1 1381922782
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+37.59.18.48
+0 2 2 0 1 1381929683
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+184.72.159.8
+0 3 0 0 0 0
+- 0 0
+15.185.110.49
+0 2 1 26218 1 1381896475
+/blog/2013/10/14/saskia-sassen-y-la-smart-city/ 0 0
+54.217.115.147
+0 1 1 414 1 1381922639
+/blog/xmlrpc.php 0 0
+118.248.123.60
+0 2 1 17227 1 1381921974
+/blog/es/ 0 0
+69.171.224.115
+0 1 1 141385 0 0
+- 0 0
+184.72.6.38
+0 2 0 0 1 1381921984
+/blog/ 0 0
+69.171.224.118
+0 2 2 394200 0 0
+- 0 0
+69.171.235.119
+0 1 0 0 0 0
+- 0 0
+199.59.148.209
+0 3 2 12491 1 1381929626
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+112.5.138.200
+0 2 1 17227 1 1381922168
+/blog/es/ 0 0
+54.211.140.95
+0 2 2 12494 1 1381930583
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+111.58.120.30
+0 2 1 17227 1 1381922176
+/blog/es/ 0 0
+199.59.148.210
+0 9 4 160162 2 1381921986
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+122.137.213.174
+0 2 1 17227 1 1381922210
+/blog/es/ 0 0
+112.103.9.7
+0 2 1 17224 1 1381921775
+/blog/es/ 0 0
+78.46.49.208
+0 2 0 0 1 1381926704
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+54.225.58.239
+0 3 2 12511 1 1381922305
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+125.72.30.27
+0 2 1 17224 1 1381922084
+/blog/es/ 0 0
+54.224.138.61
+0 1 1 141385 0 0
+- 0 0
+64.74.215.126
+0 51 48 339655 1 1381922499
+/blog/tag/ecodes/ 0 0
+85.152.242.181
+0 39 15 2026929 1 1381945235
+/RespiraXixon/ 0 0
+69.171.233.112
+0 4 2 26476 1 1381946183
+/blog/es/ 0 0
+69.171.233.113
+0 2 2 150385 0 0
+- 0 0
+69.171.233.114
+0 1 1 9000 0 0
+- 0 0
+69.171.233.115
+0 2 2 18000 0 0
+- 0 0
+69.171.233.116
+0 3 3 27000 0 0
+- 0 0
+69.171.233.117
+0 3 3 27000 0 0
+- 0 0
+69.171.233.118
+0 3 3 27000 0 0
+- 0 0
+69.171.233.119
+0 3 3 27000 0 0
+- 0 0
+180.175.146.198
+0 2 1 17227 1 1381921964
+/blog/es/ 0 0
+98.137.207.118
+0 11 1 19105 2 1381929631
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+69.171.237.10
+0 1 1 137536 0 0
+- 0 0
+69.171.237.12
+0 1 1 9000 0 0
+- 0 0
+69.171.237.13
+0 2 1 12755 1 1381921224
+/blog/ 0 0
+69.171.237.14
+0 2 2 150385 0 0
+- 0 0
+69.171.237.15
+0 1 1 124815 0 0
+- 0 0
+82.98.141.46
+0 3 0 0 2 1381929626
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+176.9.151.196
+0 1 0 0 1 1381922277
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+23.29.122.222
+0 2 2 19105 1 1381929646
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+60.163.216.180
+0 2 1 17224 1 1381922009
+/blog/es/ 0 0
+134.0.8.38
+0 21 21 0 4 1381952198
+/blog/wp-cron.php 0 0
+78.46.85.137
+0 1 0 0 1 1381929724
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.13
+0 1 1 2683 1 1381920525
+/blog/tag/ctic/feed/ 0 0
+54.224.222.196
+0 3 1 6267 1 1381932214
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.29
+0 1 0 249 1 1381956464
+- 0 0
+87.235.95.69
+0 13 12 502451 1 1381926471
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+65.52.241.141
+0 2 1 6266 1 1381922224
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.48
+0 1 1 2777 1 1381942137
+/blog/tag/co2/feed/ 0 0
+69.171.242.114
+0 1 1 141385 0 0
+- 0 0
+66.220.152.114
+0 2 2 282770 0 0
+- 0 0
+66.220.152.115
+0 1 1 143822 0 0
+- 0 0
+69.171.242.116
+0 1 1 141385 0 0
+- 0 0
+66.220.152.117
+0 2 2 278921 0 0
+- 0 0
+69.171.242.119
+0 1 1 124815 0 0
+- 0 0
+66.220.152.119
+0 2 2 266200 0 0
+- 0 0
+212.166.79.170
+0 13 12 521555 1 1381925012
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+198.101.197.26
+0 2 2 238746 0 0
+- 0 0
+180.76.5.55
+0 1 0 20 1 1381956464
+/blog/ 0 0
+182.236.160.211
+0 1 1 251 1 1381941574
+/ 0 0
+117.136.37.12
+0 1 0 20 1 1381923075
+/blog/ 0 0
+174.143.142.42
+0 1 1 119373 0 0
+- 0 0
+178.32.51.76
+0 2 1 0 1 1381936910
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.64
+0 1 1 4765 1 1381955126
+/blog/category/sin-categoria/feed/ 0 0
+180.76.5.67
+0 1 1 7493 1 1381965666
+/blog/tag/movilidad-sostenible/ 0 0
+46.4.10.21
+0 1 0 0 1 1381924002
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+37.59.16.157
+0 1 1 6244 1 1381922784
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+66.249.83.9
+0 1 1 41302 0 0
+- 0 0
+54.224.215.202
+0 1 1 124481 0 0
+- 0 0
+211.20.160.166
+0 1 0 20 1 1381922145
+/blog/ 0 0
+173.252.77.0
+0 3 3 580077 0 0
+- 0 0
+173.252.77.1
+0 1 1 52473 0 0
+- 0 0
+173.252.77.2
+0 4 4 574433 0 0
+- 0 0
+173.252.77.3
+0 6 6 1342223 0 0
+- 0 0
+176.31.233.146
+0 1 1 19105 1 1381936593
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+173.252.77.4
+0 2 2 182357 0 0
+- 0 0
+173.252.77.5
+0 1 1 137670 0 0
+- 0 0
+173.252.77.6
+0 1 1 78208 0 0
+- 0 0
+95.16.27.161
+0 15 12 502471 1 1381928211
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+54.227.201.42
+0 4 2 384 1 1381902662
+/ 0 0
+54.224.189.70
+0 1 1 6244 1 1381930581
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+180.76.5.189
+0 1 1 17207 1 1381956468
+/blog/es/ 0 0
+180.76.5.191
+0 1 1 192 1 1381956463
+/ 0 0
+180.76.5.199
+0 1 1 2285 1 1381960495
+/blog/tag/accion-ciudadana/feed/ 0 0
+86.122.160.185
+0 2 1 17227 1 1381921954
+/blog/es/ 0 0
+54.226.218.103
+0 1 1 6236 1 1381921637
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+65.52.244.38
+0 3 2 12514 2 1381926496
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+54.227.95.75
+0 2 1 6244 1 1381926771
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+209.114.46.109
+0 2 2 244188 0 0
+- 0 0
+187.191.31.80
+0 24 24 891670 2 1381967849
+/blog/2013/10/14/saskia-sassen-y-la-smart-city/ 0 0
+222.93.2.31
+0 2 1 17227 1 1381922894
+/blog/es/ 0 0
+208.184.81.30
+0 2 1 6246 1 1381923779
+/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/ 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+http://respiraxixon.com/blog/wp-admin/edit-comments.php
+1 7
+http://respiraxixon.com/blog/category/pensadores/
+1 1
+http://respiraxixon.com/blog/tag/oficina-de-la-movilidad-sostenible/
+1 7
+- (Direct Request)
+0 2049
+http://www.meneame.net/b/2037197
+0 2
+http://respiraxixon.com/blog/tag/carbonpedia/
+1 1
+http://respiraxixon.com/blog/2013/09/17/muevete-por-un-aire-mas-limpio/
+1 2
+http://respiraxixon.com/RespiraXixon/
+1 1
+http://respiraxixon.com/
+1 45
+http://respiraxixon.com/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa/
+1 113
+http://respiraxixon.com/blog/2013/09/23/calculo-de-la-huella-de-carbono/
+1 2
+http://respiraxixon.com/blog/category/eea/
+1 1
+http://www.respiraxixon.com/
+1 3
+http://respiraxixon.com/blog/wp-admin/update-core.php
+1 1
+http://respiraxixon.com/blog/what-is-this/index.php
+1 2
+http://www.google.com/search
+0 1
+http://respiraxixon.com/blog/en/
+1 1
+http://respiraxixon.com/blog/wp-content/themes/twentyeleven/style.css
+1 25
+http://fb.me/NADvxpsv
+0 1
+http://respiraxixon.com/blog/wp-login.php
+1 21
+http://respiraxixon.com/blog/wp-admin/
+1 25
+http://respiraxixon.com/blog/tag/ecodes/
+1 1
+http://respiraxixon.com/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/raspberry/
+1 1
+http://respiraxixon.com/blog/what-is-this/
+1 9
+http://respiraxixon.com/blog/wp-admin/post.php
+1 4980
+http://respiraxixon.com/blog/tag/movilidad-sostenible/
+1 9
+https://www.facebook.com/
+0 2
+http://m.facebook.com/l.php
+0 2
+http://respiraxixon.com/blog/es/
+1 373
+http://respiraxixon.com/blog/2013/10/14/saskia-sassen-y-la-smart-city/
+1 554
+http://respiraxixon.com/blog/wp-admin/edit.php
+1 7
+http://respiraxixon.com/blog
+1 17
+http://respiraxixon.com/blog/2013/10/14/saskia-sassen-y-la-smart-city
+1 4
+http://respiraxixon.com/blog/tag/accion-ciudadana/
+1 1
+https://m.facebook.com
+0 1
+http://whois.domaintools.com/respiraxixon.com
+1 4
+http://e.meneame.net/shakeit.php
+0 1
+http://respiraxixon.com/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/sensor_resize/
+1 1
+http://respiraxixon.com/blog/tag/fundacion-municipal-de-servicios-sociales-gijon/
+1 1
+http://t.co/RxuaBVjKFS
+0 2
+http://gijonenbici.wordpress.com/tag/carril-bici/
+0 1
+http://respiraxixon.com/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/
+1 104
+http://www.google.com/url
+0 2
+http://www.facebook.com/l.php
+0 2
+http://rebelmouse.com/
+0 8
+http://respiraxixon.com/blog/2013/10/16/informe-de-la-eea-sobre-la-calidad-del-aire-en-europa
+1 4
+http://respiraxixon.com/blog/tag/huella-de-carbono/
+1 1
+http://respiraxixon.com/blog/wp-includes/js/tinymce/plugins/wpeditimage/editimage.html
+1 8
+http://respiraxixon.com/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/2013-06-15-entrega-de-premios/
+1 1
+http://respiraxixon.com/blog/wp-admin/post-new.php
+1 622
+https://www.google.es/
+0 4
+http://respiraxixon.com/blog/que-es/
+1 4
+http://e.meneame.net/story/smart-city-participacion-ciudadana-vision-saskia-sassen-premio
+0 3
+http://www.google.es/url
+0 3
+http://t.co/EwMwz5qH02
+0 1
+http://www.meneame.net/story/smart-city-participacion-ciudadana-vision-saskia-sassen-premio
+0 4
+http://respiraxixon.com/blog/category/eventos/
+1 1
+http://respiraxixon.com/blog/2013/09/23/primer-aniversario-de-la-carbonpedia/
+1 1
+http://www.imeneame.net/
+0 1
+http://respiraxixon.com/blog/tag/semana-europea-de-la-movilidad/
+1 1
+http://www.meneame.net/shakeit.php
+0 31
+http://www.netcraft.com/survey/
+0 2
+http://respiraxixon.com/blog/2013/07/24/respira-xixon-gana-el-ii-festival-de-datos-abiertos-de-gijon/2013-06-14-21-53-54_resize/
+1 1
+http://www.meneame.net/story/hans-bruyninckx-director-eea-reconoce-contaminacion-aire-esta
+0 2
+http://respiraxixon.com/blog/contacto/
+1 8
+http://bit.ly/1eqyFNy
+0 5
+http://respiraxixon.com/blog/es/2013/07/
+1 1
+http://respiraxixon.com/blog/tag/responsabilidad-social-corporativa/
+1 1
+http://respiraxixon.com/blog/
+1 84
+http://twikle.es
+0 3
+http://respiraxixon.com/blog/2013/09/18/campana-online-por-la-movilidad-sostenible-y-la-apertura-de-datos-publicos/
+1 36
+http://respiraxixon.com/blog/tag/cambio-climatico/
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 110
+Python-urllib/2.6
+0 7
+Opera/9.80 (Windows NT 5.1; Edition Yx) Presto/2.12.388 Version/12.11
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.
+0 8
+Mozilla/5.0 (compatible; Embedly/0.2; +http://support.embed.ly/)
+0 6
+Mozilla/4.0 (compatible;)
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0; WUID=f328730182b03c3a250bd2ac46f6930d; WTB=8032) Gecko/20100101 Firefox/24.0
+0 16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/534.50.2 (KHTML, like Gecko) Version/5.0.6 Safari/533.22.3
+0 13
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.
+0 8
+Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Firefox/24.0
+0 56
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.23) Gecko/20110920 Firefox/3.6.23
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 12
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; es-ES; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28
+0 14
+Mozilla/5.0 (compatible; Google Desktop/5.9.1005.12335; http://desktop.google.com/)
+0 1
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9205 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Mobile Sa
+0 15
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 18
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.9.168 Version/11.50
+0 1
+Googlebot-Image/1.0
+0 8
+Mozilla/5.0 (compatible; Shareaholicbot/1.0; +http://www.shareaholic.com/bot)
+0 92
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+0 45
+Mozilla/4.0 (compatible)
+0 3
+Apache-HttpClient/4.2 (java 1.5)
+0 2
+Mozilla/5.0 (compatible; FlipboardProxy/1.1; +http://flipboard.com/browserproxy)
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+0 26
+UnwindFetchor/1.0 (+http://www.gnip.com/)
+0 13
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+0 11
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.136
+0 1
+Mozilla/5.0 (compatible) Feedfetcher-Google;(+http://www.google.com/feedfetcher.html)
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:23.0) Gecko/20100101 Firefox/23.0
+0 14
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+0 13
+Java/1.7.0_21
+0 1
+Java/1.7.0_25
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+0 27
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6) AppleWebKit/534.24 (KHTML, like Gecko) Contact: feedback@getprismatic.com
+0 6
+RebelMouse/0.1 Mozilla/5.0 (compatible; http://rebelmouse.com) Gecko/20100101 Firefox/7.0.1
+0 11
+Mozilla/5.0 (compatible) Feedfetcher-Google; (+http://www.google.com/feedfetcher.html)
+0 6
+NING/1.0
+0 19
+MobileSafari/9537.53 CFNetwork/672.0.2 Darwin/14.0.0
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20100101 Firefox/15.0.1
+0 2
+Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Safari/537.
+0 1
+Jakarta Commons-HttpClient/3.1
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 3
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-es; GT-I8190 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 13
+datagnionbot (+http://www.datagnion.com/bot.html)
+0 2
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+0 2
+Mozilla/5.0 (Android; Tablet; rv:23.0) Gecko/23.0 Firefox/23.0
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+0 13
+Mozilla/5.0 (Linux; U; Android 2.3.6; es-es; GT-S6500-ORANGE/S6500BVLK2 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gec
+0 25
+Twikle/1.0 , http://twikle.com , contact@twikle.com
+0 3
+ShowyouBot (http://showyou.com/crawler)
+0 6
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+0 24
+Mozilla/5.0 (Windows NT 6.2; rv:24.0) Gecko/20100101 Firefox/24.0
+0 1
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; DTS Agent
+0 2
+JS-Kit URL Resolver, http://js-kit.com/
+0 8
+Mozilla/5.0 (compatible; woriobot support [at] zite [dot] com +http://zite.com)
+0 1
+Mozilla/5.0 (compatible; Embedly/0.2; snap; +http://support.embed.ly/)
+0 13
+Mozilla/5.0 (compatible; SISTRIX Crawler; http://crawler.sistrix.net/)
+0 4
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 44
+xmlset_roodkcableoj28840ybtide
+0 14
+Mozilla/5.0 (compatible; PaperLiBot/2.1; http://support.paper.li/entries/20023257-what-is-paper-li)
+0 14
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/
+0 4
+Mozilla/5.0
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 14
+Mozilla/5.0 Moreover/5.1 (+http://www.moreover.com; webmaster@moreover.com)
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+0 54
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 333
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+0 4
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+0 13
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.1.2) Firefox/3.5.2
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1659.0 Safari/537.36
+0 13
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 201
+Mozilla/5.0 (compatible; TweetmemeBot/3.0; +http://tweetmeme.com/)
+0 4
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B
+0 133
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 15
+Mozilla/5.0 (compatible
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+0 4
+Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Firefox/24.0
+0 15
+WordPress/3.6.1; http://respiraxixon.com/blog
+0 80
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A501 Sa
+0 71
+Mozilla/5.0 (Windows NT 6.0; rv:24.0) Gecko/20100101 Firefox/24.0 AlexaToolbar/amznf-3.0.20121130
+0 26
+bitlybot
+0 5
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+0 53
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.22 (KHTML, like Gecko) Ubuntu Chromium/25.0.1364.160 Chrome/25.0.1364.160 Saf
+0 85
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Firefox/24.0
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+0 13
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko; Google Web Preview) Chrome/22.0.1229 Safari/537.4
+0 37
+Mozilla/5.0 (Windows NT 6.1; rv:10.0) Gecko/20100101 Firefox/10.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19 YB/3.5.1 (.NET CLR 3.5.30729)
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7 (via ggpht.com)
+0 38
+R6_CommentReader(www.radian6.com/crawler)
+0 1
+bitlybot/2.0
+0 3
+Mozilla/5.0 (compatible; Butterfly/1.0; +http://labs.topsy.com/butterfly/) Gecko/2009032608 Firefox/3.0.8
+0 6
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 1
+Embedly +support@embed.ly
+0 52
+Mozilla/5.0 (Windows NT 5.1; rv:14.0) Gecko/20100101 Firefox/14.0.1
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (FlipboardProxy/1.1; +http://flip
+0 20
+spyder/Nutch-2.1 (just another internet crawler; http://www.paloaltonetworks.com/products/features/url-filtering.html; ghalev
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A501
+0 35
+WordPress/3.7-alpha-25157;
+0 20
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Safari/530.17
+0 1
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 2
+Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)
+0 1
+Mozilla/5.0 (Windows NT 6.0; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+0 15
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; WOW64; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3
+0 1
+Mozilla/5.0 (compatible; TweetedTimes Bot/1.0; +http://tweetedtimes.com)
+0 10
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 2
+yacybot (webportal-global; amd64 Linux 3.5.0-36-generic; java 1.7.0_40; Europe/en) http://yacy.net/bot.html
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10A523 [FBAN/FBIOS;FBAV
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6) AppleWebKit/534.24 (KHTML, like Gecko)
+0 22
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 97
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows 98)
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:23.0) Gecko/20100101 Firefox/23.0
+0 15
+Klinewsbot (http://klinews.com/)
+0 104
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; WOW64; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+0 13
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 37
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-es; GT-N8010 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+0 5967
+facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) Qt/4.8.4 Safari/534.34
+0 50
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 12
+viralvideochart.unrulymedia.com
+0 2
+LinkedInBot/1.0 (compatible; Mozilla/5.0; Jakarta Commons-HttpClient/3.1 +http://www.linkedin.com)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 5
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google (+https://developers.google.com/+/web/snippet/)
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+0 59
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; es-es) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 24
+Mozilla/5.0 (compatible; uMBot-LN/1.0; mailto: crawling@ubermetrics-technologies.com)
+0 7
+Meneamebot (http://meneame.net/)
+0 5
+Mozilla/5.0 (Macintosh; Butterfly/1.0; +http://labs.topsy.com/butterfly/) Gecko/2009032608 Firefox/3.0.8
+0 3
+Apache-HttpClient/4.3 (java 1.5)
+0 2
+Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25
+0 45
+Mozilla/5.0 (compatible; shr_recommendations_app/1.0)
+0 22
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 12
+The Incutio XML-RPC PHP Library -- Meneame/2
+0 2
+TweetedTimes Bot/1.0 (Mozilla/5.0 Compatible, +http://tweetedtimes.com)
+0 2
+HTTP_Request2/2.1.1 (http://pear.php.net/package/http_request2) PHP/5.3.27
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.65 Safari/537.36
+0 13
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (FlipboardProxy/1.2; +http://flip
+0 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media C
+0 2
+Mozilla/5.0 (iPad; CPU OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A501 Safari/9537
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 Safari/537.31
+0 13
+AppEngine-Google; (+http://code.google.com/appengine; appid: getfavicon)
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (FlipboardProxy/0.0.5; +http://fl
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:15.0) Gecko/20100101 Firefox/15.0.1
+0 14
+rogerbot/1.0 (http://moz.com/help/pro/what-is-rogerbot-, rogerbot-crawler+shiny@moz.com)
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+0 184
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (compatible; WASALive-Bot ; http://blog.wasalive.com/wasalive-bots/)
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/523.15 (KHTML, like Gecko) Safari/419.3 Qt
+0 1
+Google-Personal
+0 4
+MetaURI API/2.0 +metauri.com
+0 5
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 3
+WordPress/3.7-beta1-25639;
+0 5
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 9
+Twitterbot/1.0
+0 25
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 79
+Crowsnest/0.5 (+http://www.crowsnest.tv/)
+0 2
+Mozilla/5.0 (compatible; woriobot +http://worio.com)
+0 1
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.229 Version/11.64
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,31 @@
+rx_homepage:
+    pattern:  /
+    defaults: { _controller: RXBundle:pages:index }
+    requirements:
+        _method:  GET
+
+rx_caso1:
+    pattern:  /caso1
+    defaults: { _controller: RXBundle:pages:caso1 }
+    requirements:
+        _method:  GET
+rx_caso2:
+    pattern:  /caso2
+    defaults: { _controller: RXBundle:pages:caso2 }
+    requirements:
+        _method:  GET
+rx_caso3:
+    pattern:  /caso3
+    defaults: { _controller: RXBundle:pages:caso3 }
+    requirements:
+        _method:  GET
+rx_caso4:
+    pattern:  /caso4
+    defaults: { _controller: RXBundle:pages:caso4 }
+    requirements:
+        _method:  GET
+rx_caso5:
+    pattern:  /caso5
+    defaults: { _controller: RXBundle:pages:caso5 }
+    requirements:
+        _method:  GET

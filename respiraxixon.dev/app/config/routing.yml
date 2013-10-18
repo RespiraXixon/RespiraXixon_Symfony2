@@ -1,0 +1,4 @@
+rx:
+    resource: "@RXBundle/Resources/config/routing.yml"
+    prefix:   /
+
