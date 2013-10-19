@@ -34,38 +34,34 @@ function inicializa_mapa(datos) {
 		
 	//Añadimos colores
 	
-	//SO2
-	/*Niveles correctos para SO2
-	var so2_verdeclaro_azul = new L.HSLHueFunction(new L.Point(0,120), new L.Point(63,205));
-	var so2_azul_amarillo = new L.HSLHueFunction(new L.Point(64,205), new L.Point(125,60));
-	var so2_amarillo_rojo = new L.HSLHueFunction(new L.Point(126,60), new L.Point(188,0));
-	var so2_color =  new L.PiecewiseFunction([so2_verdeclaro_azul,so2_azul_amarillo,so2_amarillo_rojo]);
-	*/
-	
-	//TODO: Niveles de color para demo de ejemplo. Poner niveles reales. 
+	//TODO: Niveles de color y función lineal usada en la leyenda para demo de ejemplo. Poner niveles reales. 
 	var co_verdeclaro_azul = new L.HSLHueFunction(new L.Point(0,120), new L.Point(0.5,205));
 	var co_azul_amarillo = new L.HSLHueFunction(new L.Point(0.5,205), new L.Point(1,60));
 	var co_amarillo_rojo = new L.HSLHueFunction(new L.Point(1,60), new L.Point(3,0));
 	var co_color =  new L.PiecewiseFunction([co_verdeclaro_azul,co_azul_amarillo,co_amarillo_rojo]);
 	
+        var co_radiusFunction = new L.LinearFunction(new L.Point(0,0), new L.Point(4,4));
+        
 	var so2_verdeclaro_azul = new L.HSLHueFunction(new L.Point(0,120), new L.Point(6,205));
 	var so2_azul_amarillo = new L.HSLHueFunction(new L.Point(6,205), new L.Point(8,60));
 	var so2_amarillo_rojo = new L.HSLHueFunction(new L.Point(8,60), new L.Point(10,0));
 	var so2_color =  new L.PiecewiseFunction([so2_verdeclaro_azul,so2_azul_amarillo,so2_amarillo_rojo]);
-
+        
+        var so2_radiusFunction = new L.LinearFunction(new L.Point(0,0), new L.Point(10,10));
+        
 	var o3_verdeclaro_azul = new L.HSLHueFunction(new L.Point(0,120), new L.Point(3,205));
 	var o3_azul_amarillo = new L.HSLHueFunction(new L.Point(3,205), new L.Point(6,60));
 	var o3_amarillo_rojo = new L.HSLHueFunction(new L.Point(6,60), new L.Point(20,0));
 	var o3_color =  new L.PiecewiseFunction([o3_verdeclaro_azul,o3_azul_amarillo,o3_amarillo_rojo]);
 	
+        var o3_radiusFunction = new L.LinearFunction(new L.Point(0,0), new L.Point(20,20));
 		
-	var no_verdeclaro_azul = new L.HSLHueFunction(new L.Point(0,120), new L.Point(40,205));
-	var no_azul_amarillo = new L.HSLHueFunction(new L.Point(40,205), new L.Point(90,60));
-	var no_amarillo_rojo = new L.HSLHueFunction(new L.Point(90,60), new L.Point(107,0));
-	var no_color =  new L.PiecewiseFunction([no_verdeclaro_azul,no_azul_amarillo,no_amarillo_rojo]);
-	
-	var radiusFunction = new L.LinearFunction(new L.Point(0,0), new L.Point(100,110));
-
+	var no_muyBuena = new L.HSLHueFunction(new L.Point(0,120), new L.Point(40,205));
+	var no_buena = new L.HSLHueFunction(new L.Point(40,205), new L.Point(90,60));
+	var no_mala = new L.HSLHueFunction(new L.Point(90,60), new L.Point(110,0));
+	var no_color =  new L.PiecewiseFunction([no_muyBuena,no_buena,no_mala]);
+        
+        var no_radiusFunction = new L.LinearFunction(new L.Point(0,0), new L.Point(107,107));
 
 	var options = {
 		recordsField: 'calidadairemediatemporales.calidadairemediatemporal',
@@ -99,9 +95,7 @@ function inicializa_mapa(datos) {
                             maxValue: 300,
                             minHeight: 4,
                             maxHeight: 200,
-                            displayName: 'Concentraci&oacute;n NO',
-                            fillColor: no_color,
-                            radius: radiusFunction
+                            displayName: 'Concentraci&oacute;n NO'
 			}
 		},		
 		filter: function (record) {
@@ -119,22 +113,25 @@ function inicializa_mapa(datos) {
                 displayOptions: {
 			'co': {
 				fillColor: co_color,
-                                displayName: 'Concentraci&oacute;n CO'
+                                displayName: 'Concentraci&oacute;n CO',
+                                radius: co_radiusFunction
                                 
 			},
 			'so2': {
 				fillColor: so2_color,
-                                displayName: 'Concentraci&oacute;n SO2'
+                                displayName: 'Concentraci&oacute;n SO2',
+                                radius: so2_radiusFunction
                         },
 			'o3': {  
 				fillColor: o3_color,
-				displayName: 'Concentraci&oacute;n de Ozono'
+				displayName: 'Concentraci&oacute;n de Ozono',
+                                radius: o3_radiusFunction
 			},			
 
                         'no': {
 				fillColor: no_color,
 				displayName: 'Concentraci&oacute;n NO',
-                                radius: radiusFunction
+                                radius: no_radiusFunction
 			}
 		},
         tooltipOptions: {

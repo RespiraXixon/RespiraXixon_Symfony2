@@ -3147,6 +3147,8 @@ L.ChartDataLayer = L.DataLayer.extend({
     },
     _getMarker: function(latLng, options) {},
     _getLegend: function(legendOptions) {
+        //TODO:Modificado el método para que pinte la leyenda de las barras correctamente
+        
         legendOptions = legendOptions || this.options.legendOptions || {};
         var className = legendOptions.className;
         var legendElement = '<div class="legend"></div>';
