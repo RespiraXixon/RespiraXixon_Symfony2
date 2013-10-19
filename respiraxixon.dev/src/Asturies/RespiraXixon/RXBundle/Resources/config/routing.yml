@@ -1,48 +1,48 @@
 rx_homepage:
     pattern:  /
-    defaults: { _controller: RXBundle:pages:index }
+    defaults: { _controller: RXBundle:Pages:index }
     requirements:
         _method:  GET
 
 rx_caso1:
     pattern:  /caso1
-    defaults: { _controller: RXBundle:pages:caso1 }
+    defaults: { _controller: RXBundle:Pages:caso1 }
     requirements:
         _method:  GET
 rx_caso2:
     pattern:  /caso2
-    defaults: { _controller: RXBundle:pages:caso2 }
+    defaults: { _controller: RXBundle:Pages:caso2 }
     requirements:
         _method:  GET
 rx_caso3:
     pattern:  /caso3
-    defaults: { _controller: RXBundle:pages:caso3 }
+    defaults: { _controller: RXBundle:Pages:caso3 }
     requirements:
         _method:  GET
 rx_caso4:
     pattern:  /caso4
-    defaults: { _controller: RXBundle:pages:caso4 }
+    defaults: { _controller: RXBundle:Pages:caso4 }
     requirements:
         _method:  GET
 rx_caso5:
     pattern:  /caso5
-    defaults: { _controller: RXBundle:pages:caso5 }
+    defaults: { _controller: RXBundle:Pages:caso5 }
     requirements:
         _method:  GET
 rx_caso6:
     pattern:  /caso6
-    defaults: { _controller: RXBundle:pages:caso6 } 
+    defaults: { _controller: RXBundle:Pages:caso6 } 
     requirements:
         _method:  GET
 
 rx_caso7:
     pattern:  /caso7
-    defaults: { _controller: RXBundle:pages:caso7 } 
+    defaults: { _controller: RXBundle:Pages:caso7 } 
     requirements:
         _method:  GET
 
 rx_caso8:
     pattern:  /caso8
-    defaults: { _controller: RXBundle:pages:caso8 } 
+    defaults: { _controller: RXBundle:Pages:caso8 } 
     requirements:
         _method:  GET|POST
