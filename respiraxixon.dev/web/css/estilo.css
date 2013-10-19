@@ -38,3 +38,13 @@
 	text-align: center;
 }
 
+.coordenadas { text-align: center; padding: 20px; margin-bottom: 20px; }
+form.coordenadas { font-size: 16px; }
+form.coordenadas div { clear: left; margin-bottom: 10px; }
+form.coordenadas label { float: left; margin-right: 10px; text-align: right; width: 50px; font-weight: bold; vertical-align: top; padding-top: 10px; }
+form.coordenadas input[type="text"],
+form.coordenadas input[type="email"]
+    { width: 180px; line-height: 26px; font-size: 20px; min-height: 26px; }
+form.coordenadas textarea { width: 250px; height: 150px; line-height: 26px; font-size: 20px; }
+
+

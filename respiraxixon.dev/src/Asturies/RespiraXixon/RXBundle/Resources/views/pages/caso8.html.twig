@@ -1,0 +1,38 @@
+{% extends 'RXBundle::layout.html.twig' %}
+
+{% block body %}
+<article>
+  <div id="mapa">
+  </div>
+</article>
+{% endblock %}
+
+{% block sidebar %}
+<aside>
+    <div>
+        <form action="{{ path('rx_caso8') }}" method="post" {{ form_enctype(form) }} class="coordenadas">
+              {{ form_errors(form) }}
+
+              {{ form_row(form.latitud) }}
+              {{ form_row(form.longitud) }}
+              {{ form_row(form.resultado) }}
+
+              {{ form_rest(form) }}
+
+              <input type="button" onclick="javascript:distancia($('#coordenadas_latitud').val(),$('#coordenadas_longitud').val());"/>
+          </form>
+        <div>
+           
+        </div>
+    </div>
+</aside>
+
+{% endblock %}
+
+{% block javascripts_page %}
+<script  src="{{asset('js/pages/caso8.js')}}"></script>
+<script>
+    cargaDatos(tipoCarga,fichero_calidadaire);
+</script>
+{%endblock%} 
+

@@ -45,4 +45,13 @@ function cargaDatos(tipoCarga,url) {
 	return datos;
 }
 
+function distancia_estacion(map,layer,latlng){
+                var latLngs=[];
+                var i=0;
+                for (var key in layer._layers) {
+                    latLngs[i]=layer._layers[key]._latlng;
+                    i++;
+                }
+                return(L.GeometryUtil.closest(map,latLngs,latlng));
+}
 
