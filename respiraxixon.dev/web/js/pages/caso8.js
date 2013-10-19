@@ -161,5 +161,5 @@ function inicializa_mapa(datos) {
 function distancia(latitud,longitud){
     var origen =  new L.LatLng(latitud,longitud);
     var estacion=distancia_estacion(map,layer,origen);
-    $('#coordenadas_resultado').append(("Coordenadas: " +estacion.toString()+" - Distancia: "+ estacion.distanceTo(origen)));
+    $('#coordenadas_resultado').html(("Coordenadas: " +estacion.toString()+" - Distancia: "+ estacion.distanceTo(origen)));
 }
