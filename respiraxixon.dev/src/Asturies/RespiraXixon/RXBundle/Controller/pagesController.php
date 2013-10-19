@@ -30,4 +30,9 @@ class pagesController extends Controller
     {
         return $this->render('RXBundle:pages:caso5.html.twig');
     }
-}
+    public function caso6Action()
+    {
+        return $this->render('RXBundle:pages:caso6.html.twig');
+    }
+
+} 

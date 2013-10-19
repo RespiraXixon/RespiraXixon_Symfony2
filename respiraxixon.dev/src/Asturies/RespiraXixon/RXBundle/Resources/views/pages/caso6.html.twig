@@ -1,0 +1,19 @@
+{% extends 'RXBundle::layout.html.twig' %}
+
+{% block body %}
+<article>
+  <div id="legend" class="span3">
+  </div>
+
+  <div id="mapa">
+  </div>
+</article>
+{% endblock %}
+
+{% block javascripts_page %}
+<script  src="{{asset('js/pages/caso6.js')}}"></script>
+<script>
+    cargaDatos(tipoCarga,fichero_calidadaire);
+</script>
+{%endblock%} 
+

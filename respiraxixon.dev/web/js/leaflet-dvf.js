@@ -451,6 +451,7 @@ L.CategoryLegend = L.Class.extend({
         if (options.title) {
             $legend.append('<div class="legend-title">' + options.title + "</div>");
         }
+        //TODO: script tocado
         for (var key in legendOptions) {
             categoryOptions = legendOptions[key];
             var displayName = categoryOptions.displayName || key;
@@ -3146,10 +3147,81 @@ L.ChartDataLayer = L.DataLayer.extend({
     },
     _getMarker: function(latLng, options) {},
     _getLegend: function(legendOptions) {
+        legendOptions = legendOptions || this.options.legendOptions || {};
+        var className = legendOptions.className;
+        var legendElement = '<div class="legend"></div>';
+        var $legendElement = $(legendElement);
+        var displayOption;
+        var valueFunction;
+        var numSegments = legendOptions.numSegments || 10;
+        var legendWidth = legendOptions.width || 100;
+        var fieldBounds = {};
+        var weight = this.options.layerOptions.weight || 0;
+        var segmentWidth = legendWidth / numSegments - 2 * weight;
+        var fieldElements = {};
+        var layerOptions = this.options.layerOptions;
+        var propertiesByField = {};
+        var displayText;
+        var displayOptions = this.options.displayOptions;
+        var displayMin, displayMax;
+        var radiusOptions = {
+            property: [ "height" ],
+            valueFunction: function(value) {
+                return (2 * value).toFixed(0) + "px";
+            }
+        };
+        if (className) {
+            $legendElement.addClass(className);
+        }
+        if (legendOptions.title) {
+            $legendElement.append("<legend>" + legendOptions.title + "</legend>");
+        }
+        var defaultFunction = function(value) {
+            return value;
+        };
+        for (var field in displayOptions) {
+            var displayProperties = displayOptions[field];
+            var displayName = displayProperties.displayName || field;
+            displayText = displayProperties.displayText;
+            var displayTextFunction = displayText ? displayText : defaultFunction;
+            var styles = displayProperties.styles;
+            $legendElement.append('<div class="legend-title">' + displayName + "</div>");
+            if (styles) {
+                var legend = new L.CategoryLegend(styles);
+                $legendElement.append(legend.generate());
+            } else {
+                var $legendItems = $('<div class="data-layer-legend"><div class="min-value"></div><div class="scale-bars"></div><div class="max-value"></div></div>');
+                var $minValue = $legendItems.find(".min-value");
+                var $maxValue = $legendItems.find(".max-value");
+                var $scaleBars = $legendItems.find(".scale-bars");
+                var ignoreProperties = [ "displayName", "displayText", "minValue", "maxValue" ];
+                for (var index = 0; index < numSegments; ++index) {
+                    var legendParams = {
+                        displayProperties: displayProperties,
+                        layerOptions: layerOptions,
+                        ignoreProperties: ignoreProperties,
+                        displayTextFunction: displayTextFunction,
+                        index: index,
+                        numSegments: numSegments,
+                        segmentWidth: segmentWidth,
+                        $minValue: $minValue,
+                        $maxValue: $maxValue
+                    };
+                    var $element = this._getLegendElement(legendParams);
+                    $scaleBars.append($element);
+                }
+            }
+            $legendElement.append($legendItems);
+        }
+        return $legendElement.wrap("<div/>").parent().html();
+    }
+/*
         var legend = new L.CategoryLegend(this.options.chartOptions);
         legendOptions = legendOptions || this.options.legendOptions;
+        
         return legend.generate(legendOptions);
     }
+*/
 });
 
 L.BarChartDataLayer = L.ChartDataLayer.extend({
