@@ -3111,7 +3111,6 @@ L.ChartDataLayer = L.DataLayer.extend({
         L.DataLayer.prototype.initialize.call(this, data, options);
     },
     _getLayer: function(latLng, layerOptions, record) {
-    	
         this._addBoundary(latLng, layerOptions);
         latLng = this._processLocation(latLng);
         var chartOptions = this.options.chartOptions;
@@ -3144,7 +3143,7 @@ L.ChartDataLayer = L.DataLayer.extend({
             }
         }
         return marker;
-    },
+    },    
     _getMarker: function(latLng, options) {},
     _getLegend: function(legendOptions) {
         //TODO:Modificado el método para que pinte la leyenda de las barras correctamente

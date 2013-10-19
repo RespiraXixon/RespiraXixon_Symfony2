@@ -34,3 +34,9 @@ rx_caso6:
     defaults: { _controller: RXBundle:pages:caso6 } 
     requirements:
         _method:  GET
+
+rx_caso7:
+    pattern:  /caso7
+    defaults: { _controller: RXBundle:pages:caso7 } 
+    requirements:
+        _method:  GET
